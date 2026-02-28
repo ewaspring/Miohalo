@@ -1,27 +1,27 @@
 letter,status,char,codepoint,name,reason
-A,selected,𒀀,U+12000,CUNEIFORM SIGN A,Auto-picked by exact token/short-name heuristic.
-B,missing,,,,No direct token hit in Unicode cuneiform names.
-C,missing,,,,No direct token hit in Unicode cuneiform names.
-D,missing,,,,No direct token hit in Unicode cuneiform names.
-E,selected,𒂊,U+1208A,CUNEIFORM SIGN E,Auto-picked by exact token/short-name heuristic.
-F,missing,,,,No direct token hit in Unicode cuneiform names.
-G,missing,,,,No direct token hit in Unicode cuneiform names.
-H,missing,,,,No direct token hit in Unicode cuneiform names.
-I,selected,𒄿,U+1213F,CUNEIFORM SIGN I,Auto-picked by exact token/short-name heuristic.
-J,missing,,,,No direct token hit in Unicode cuneiform names.
-K,missing,,,,No direct token hit in Unicode cuneiform names.
-L,missing,,,,No direct token hit in Unicode cuneiform names.
-M,missing,,,,No direct token hit in Unicode cuneiform names.
-N,missing,,,,No direct token hit in Unicode cuneiform names.
-O,missing,,,,No direct token hit in Unicode cuneiform names.
-P,missing,,,,No direct token hit in Unicode cuneiform names.
-Q,missing,,,,No direct token hit in Unicode cuneiform names.
-R,missing,,,,No direct token hit in Unicode cuneiform names.
-S,missing,,,,No direct token hit in Unicode cuneiform names.
-T,missing,,,,No direct token hit in Unicode cuneiform names.
-U,selected,𒌋,U+1230B,CUNEIFORM SIGN U,Auto-picked by exact token/short-name heuristic.
-V,missing,,,,No direct token hit in Unicode cuneiform names.
-W,missing,,,,No direct token hit in Unicode cuneiform names.
-X,selected,𒒫,U+124AB,CUNEIFORM SIGN ERIN2 X,Auto-picked by exact token/short-name heuristic.
-Y,missing,,,,No direct token hit in Unicode cuneiform names.
-Z,missing,,,,No direct token hit in Unicode cuneiform names.
+A,selected,𒀀,U+12000,CUNEIFORM SIGN A,Auto-picked by staged heuristic. Exact token match.
+B,selected,𒁀,U+12040,CUNEIFORM SIGN BA,Auto-picked by staged heuristic. Token-prefix match.
+C,selected,𒁐,U+12050,CUNEIFORM SIGN BU CROSSING BU,Auto-picked by staged heuristic. Token-prefix match.
+D,selected,𒁕,U+12055,CUNEIFORM SIGN DA,Auto-picked by staged heuristic. Token-prefix match.
+E,selected,𒂊,U+1208A,CUNEIFORM SIGN E,Auto-picked by staged heuristic. Exact token match.
+F,selected,𒆮,U+121AE,CUNEIFORM SIGN KU4 VARIANT FORM,Auto-picked by staged heuristic. Token-prefix match.
+G,selected,𒂵,U+120B5,CUNEIFORM SIGN GA,Auto-picked by staged heuristic. Token-prefix match.
+H,selected,𒄩,U+12129,CUNEIFORM SIGN HA,Auto-picked by staged heuristic. Token-prefix match.
+I,selected,𒅀,U+12140,CUNEIFORM SIGN I A,Auto-picked by staged heuristic. Exact token match.
+J,selected,𒄿,U+1213F,CUNEIFORM SIGN I,Auto-picked by staged heuristic. Phonetic fallback token hint match.
+K,selected,𒅗,U+12157,CUNEIFORM SIGN KA,Auto-picked by staged heuristic. Token-prefix match.
+L,selected,𒆷,U+121B7,CUNEIFORM SIGN LA,Auto-picked by staged heuristic. Token-prefix match.
+M,selected,𒈠,U+12220,CUNEIFORM SIGN MA,Auto-picked by staged heuristic. Token-prefix match.
+N,selected,𒈾,U+1223E,CUNEIFORM SIGN NA,Auto-picked by staged heuristic. Token-prefix match.
+O,selected,𒀮,U+1202E,CUNEIFORM SIGN AN OVER AN,Auto-picked by staged heuristic. Token-prefix match.
+P,selected,𒉺,U+1227A,CUNEIFORM SIGN PA,Auto-picked by staged heuristic. Token-prefix match.
+Q,selected,𒂝,U+1209D,CUNEIFORM SIGN EN SQUARED,Auto-picked by staged heuristic. Token-contains-letter match.
+R,selected,𒊏,U+1228F,CUNEIFORM SIGN RA,Auto-picked by staged heuristic. Token-prefix match.
+S,selected,𒊓,U+12293,CUNEIFORM SIGN SA,Auto-picked by staged heuristic. Token-prefix match.
+T,selected,𒋫,U+122EB,CUNEIFORM SIGN TA,Auto-picked by staged heuristic. Token-prefix match.
+U,selected,𒎙,U+12399,CUNEIFORM SIGN U U,Auto-picked by staged heuristic. Exact token match.
+V,selected,𒁻,U+1207B,CUNEIFORM SIGN DU OVER DU,Auto-picked by staged heuristic. Token-contains-letter match.
+W,selected,𒌋,U+1230B,CUNEIFORM SIGN U,Auto-picked by staged heuristic. Phonetic fallback token hint match.
+X,selected,𒍖,U+12356,CUNEIFORM SIGN USHX,Manual override for display-safe glyph compatibility.
+Y,selected,𒎓,U+12393,CUNEIFORM SIGN NU11 ROTATED NINETY DEGREES,Manual override for display-safe glyph compatibility.
+Z,selected,𒍝,U+1235D,CUNEIFORM SIGN ZA,Auto-picked by staged heuristic. Token-prefix match.

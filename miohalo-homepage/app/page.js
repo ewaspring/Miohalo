@@ -53,6 +53,7 @@ export default function HomePage() {
         <div className="ctaRow">
           <a href="#confession" className="button primary">Read my confession</a>
           <a href="#work" className="button ghost">See current work</a>
+          <a href="/cuneiform-map" className="button ghost">View A–Z map</a>
         </div>
       </section>
 

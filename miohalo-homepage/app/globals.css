@@ -145,3 +145,60 @@ h3 {
 .confession h2 {
   margin-bottom: 10px;
 }
+
+.glyphList {
+  margin-top: 16px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.glyphItem {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  min-width: 64px;
+  text-align: center;
+}
+
+.glyphSymbol,
+.glyphCell {
+  font-size: 1.4rem;
+}
+
+.tableWrap {
+  overflow-x: auto;
+}
+
+.mappingTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.mappingTable th,
+.mappingTable td {
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  padding: 10px 8px;
+}
+
+.status {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.status.selected {
+  color: #9bf7c8;
+  background: rgba(9, 157, 84, 0.25);
+}
+
+.status.missing {
+  color: #ffd7d7;
+  background: rgba(169, 56, 56, 0.22);
+}

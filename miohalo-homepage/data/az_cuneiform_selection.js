@@ -1,4 +1,4 @@
-[
+const mapping = [
   {
     "letter": "A",
     "status": "selected",
@@ -207,4 +207,6 @@
     "name": "CUNEIFORM SIGN ZA",
     "reason": "Auto-picked by staged heuristic. Token-prefix match."
   }
-]
+];
+
+export default mapping;

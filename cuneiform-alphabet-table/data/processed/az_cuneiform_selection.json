@@ -190,10 +190,6 @@
     "codepoint": "U+12356",
     "name": "CUNEIFORM SIGN USHX",
     "reason": "Manual override for display-safe glyph compatibility."
-    "char": "𒒫",
-    "codepoint": "U+124AB",
-    "name": "CUNEIFORM SIGN ERIN2 X",
-    "reason": "Auto-picked by staged heuristic. Exact token match."
   },
   {
     "letter": "Y",
@@ -202,10 +198,6 @@
     "codepoint": "U+12393",
     "name": "CUNEIFORM SIGN NU11 ROTATED NINETY DEGREES",
     "reason": "Manual override for display-safe glyph compatibility."
-    "char": "𒓉",
-    "codepoint": "U+124C9",
-    "name": "CUNEIFORM SIGN GABA ROTATED NINETY DEGREES",
-    "reason": "Auto-picked by staged heuristic. Token-contains-letter match."
   },
   {
     "letter": "Z",

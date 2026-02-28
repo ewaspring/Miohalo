@@ -1,4 +1,4 @@
-import mapping from '../../data/az_cuneiform_selection.json';
+import mapping from '../../data/az_cuneiform_selection';
 
 const seedLetters = ['A', 'E', 'I', 'U', 'X'];
 

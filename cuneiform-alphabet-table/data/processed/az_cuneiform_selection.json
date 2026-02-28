@@ -1,0 +1,210 @@
+[
+  {
+    "letter": "A",
+    "status": "selected",
+    "char": "𒀀",
+    "codepoint": "U+12000",
+    "name": "CUNEIFORM SIGN A",
+    "reason": "Auto-picked by exact token/short-name heuristic."
+  },
+  {
+    "letter": "B",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "C",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "D",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "E",
+    "status": "selected",
+    "char": "𒂊",
+    "codepoint": "U+1208A",
+    "name": "CUNEIFORM SIGN E",
+    "reason": "Auto-picked by exact token/short-name heuristic."
+  },
+  {
+    "letter": "F",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "G",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "H",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "I",
+    "status": "selected",
+    "char": "𒄿",
+    "codepoint": "U+1213F",
+    "name": "CUNEIFORM SIGN I",
+    "reason": "Auto-picked by exact token/short-name heuristic."
+  },
+  {
+    "letter": "J",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "K",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "L",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "M",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "N",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "O",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "P",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "Q",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "R",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "S",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "T",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "U",
+    "status": "selected",
+    "char": "𒌋",
+    "codepoint": "U+1230B",
+    "name": "CUNEIFORM SIGN U",
+    "reason": "Auto-picked by exact token/short-name heuristic."
+  },
+  {
+    "letter": "V",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "W",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "X",
+    "status": "selected",
+    "char": "𒒫",
+    "codepoint": "U+124AB",
+    "name": "CUNEIFORM SIGN ERIN2 X",
+    "reason": "Auto-picked by exact token/short-name heuristic."
+  },
+  {
+    "letter": "Y",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  },
+  {
+    "letter": "Z",
+    "status": "missing",
+    "char": "",
+    "codepoint": "",
+    "name": "",
+    "reason": "No direct token hit in Unicode cuneiform names."
+  }
+]

@@ -1,0 +1,27 @@
+letter,status,char,codepoint,name,reason
+A,selected,𒀀,U+12000,CUNEIFORM SIGN A,Auto-picked by exact token/short-name heuristic.
+B,missing,,,,No direct token hit in Unicode cuneiform names.
+C,missing,,,,No direct token hit in Unicode cuneiform names.
+D,missing,,,,No direct token hit in Unicode cuneiform names.
+E,selected,𒂊,U+1208A,CUNEIFORM SIGN E,Auto-picked by exact token/short-name heuristic.
+F,missing,,,,No direct token hit in Unicode cuneiform names.
+G,missing,,,,No direct token hit in Unicode cuneiform names.
+H,missing,,,,No direct token hit in Unicode cuneiform names.
+I,selected,𒄿,U+1213F,CUNEIFORM SIGN I,Auto-picked by exact token/short-name heuristic.
+J,missing,,,,No direct token hit in Unicode cuneiform names.
+K,missing,,,,No direct token hit in Unicode cuneiform names.
+L,missing,,,,No direct token hit in Unicode cuneiform names.
+M,missing,,,,No direct token hit in Unicode cuneiform names.
+N,missing,,,,No direct token hit in Unicode cuneiform names.
+O,missing,,,,No direct token hit in Unicode cuneiform names.
+P,missing,,,,No direct token hit in Unicode cuneiform names.
+Q,missing,,,,No direct token hit in Unicode cuneiform names.
+R,missing,,,,No direct token hit in Unicode cuneiform names.
+S,missing,,,,No direct token hit in Unicode cuneiform names.
+T,missing,,,,No direct token hit in Unicode cuneiform names.
+U,selected,𒌋,U+1230B,CUNEIFORM SIGN U,Auto-picked by exact token/short-name heuristic.
+V,missing,,,,No direct token hit in Unicode cuneiform names.
+W,missing,,,,No direct token hit in Unicode cuneiform names.
+X,selected,𒒫,U+124AB,CUNEIFORM SIGN ERIN2 X,Auto-picked by exact token/short-name heuristic.
+Y,missing,,,,No direct token hit in Unicode cuneiform names.
+Z,missing,,,,No direct token hit in Unicode cuneiform names.

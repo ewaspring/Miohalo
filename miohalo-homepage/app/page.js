@@ -1,7 +1,3 @@
-'use client';
-
-import { useEffect, useState } from 'react';
-
 const pillars = [
   {
     title: 'Observe',
@@ -22,27 +18,8 @@ const pillars = [
 ];
 
 export default function HomePage() {
-  const [theme, setTheme] = useState('dark');
-
-  useEffect(() => {
-    document.documentElement.setAttribute('data-theme', theme);
-  }, [theme]);
-
-  const isLight = theme === 'light';
-
   return (
     <main className="page">
-      <section className="toolbar">
-        <button
-          className="themeToggle"
-          type="button"
-          onClick={() => setTheme(isLight ? 'dark' : 'light')}
-          aria-label="Toggle light mode"
-        >
-          {isLight ? '🌙 Dark mode' : '☀️ Light mode'}
-        </button>
-      </section>
-
       <section className="hero card">
         <p className="badge">MIOHALO · HOMEPAGE</p>
         <h1>Agentic Symbolic Orchestration</h1>
@@ -53,6 +30,7 @@ export default function HomePage() {
         <div className="ctaRow">
           <a href="#confession" className="button primary">Read my confession</a>
           <a href="#work" className="button ghost">See current work</a>
+          <a href="/cuneiform-map" className="button ghost">View A–Z map</a>
         </div>
       </section>
 

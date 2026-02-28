@@ -39,6 +39,13 @@ FALLBACK_TOKEN_HINTS: dict[str, tuple[str, ...]] = {
     "Y": ("YA", "IA", "I"),
 }
 
+# Force display-safe overrides for specific letters when certain glyphs are known
+# to render unreliably in some environments/fonts.
+DISPLAY_SAFE_OVERRIDES: dict[str, str] = {
+    "X": "U+12356",  # CUNEIFORM SIGN USHX
+    "Y": "U+12393",  # CUNEIFORM SIGN NU11 ROTATED NINETY DEGREES
+}
+
 
 @dataclass
 class Sign:
@@ -121,9 +128,28 @@ def _rank_candidates(signs: list[dict], letter: str) -> list[tuple[int, int, str
 def select_for_letters(signs: list[dict]) -> dict[str, dict]:
     selections: dict[str, dict] = {}
     used_codepoints: set[str] = set()
+    signs_by_codepoint = {s["codepoint"]: s for s in signs if s["name"].startswith("CUNEIFORM SIGN ")}
 
-    ranked_by_letter = {letter: _rank_candidates(signs, letter) for letter in LATIN_26}
-    letter_order = sorted(LATIN_26, key=lambda letter: len(ranked_by_letter[letter]))
+    for letter, codepoint in DISPLAY_SAFE_OVERRIDES.items():
+        sign = signs_by_codepoint.get(codepoint)
+        if not sign:
+            continue
+        selections[letter] = {
+            "letter": letter,
+            "status": "selected",
+            "char": sign["char"],
+            "codepoint": sign["codepoint"],
+            "name": sign["name"],
+            "reason": "Manual override for display-safe glyph compatibility.",
+        }
+        used_codepoints.add(sign["codepoint"])
+
+    ranked_by_letter = {
+        letter: _rank_candidates(signs, letter)
+        for letter in LATIN_26
+        if letter not in selections
+    }
+    letter_order = sorted(ranked_by_letter, key=lambda letter: len(ranked_by_letter[letter]))
 
     for letter in letter_order:
         ranked = ranked_by_letter[letter]

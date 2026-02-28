@@ -25,6 +25,6 @@
 | U | selected | 𒎙 | U+12399 | CUNEIFORM SIGN U U | Auto-picked by staged heuristic. Exact token match. |
 | V | selected | 𒁻 | U+1207B | CUNEIFORM SIGN DU OVER DU | Auto-picked by staged heuristic. Token-contains-letter match. |
 | W | selected | 𒌋 | U+1230B | CUNEIFORM SIGN U | Auto-picked by staged heuristic. Phonetic fallback token hint match. |
-| X | selected | 𒒫 | U+124AB | CUNEIFORM SIGN ERIN2 X | Auto-picked by staged heuristic. Exact token match. |
-| Y | selected | 𒓉 | U+124C9 | CUNEIFORM SIGN GABA ROTATED NINETY DEGREES | Auto-picked by staged heuristic. Token-contains-letter match. |
+| X | selected | 𒍖 | U+12356 | CUNEIFORM SIGN USHX | Manual override for display-safe glyph compatibility. |
+| Y | selected | 𒎓 | U+12393 | CUNEIFORM SIGN NU11 ROTATED NINETY DEGREES | Manual override for display-safe glyph compatibility. |
 | Z | selected | 𒍝 | U+1235D | CUNEIFORM SIGN ZA | Auto-picked by staged heuristic. Token-prefix match. |

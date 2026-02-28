@@ -1,0 +1,7406 @@
+[
+  {
+    "char": "𒀀",
+    "codepoint": "U+12000",
+    "name": "CUNEIFORM SIGN A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀁",
+    "codepoint": "U+12001",
+    "name": "CUNEIFORM SIGN A TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀂",
+    "codepoint": "U+12002",
+    "name": "CUNEIFORM SIGN A TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀃",
+    "codepoint": "U+12003",
+    "name": "CUNEIFORM SIGN A TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀄",
+    "codepoint": "U+12004",
+    "name": "CUNEIFORM SIGN A TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀅",
+    "codepoint": "U+12005",
+    "name": "CUNEIFORM SIGN A TIMES IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀆",
+    "codepoint": "U+12006",
+    "name": "CUNEIFORM SIGN A TIMES LAGAR GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀇",
+    "codepoint": "U+12007",
+    "name": "CUNEIFORM SIGN A TIMES MUSH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀈",
+    "codepoint": "U+12008",
+    "name": "CUNEIFORM SIGN A TIMES SAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀉",
+    "codepoint": "U+12009",
+    "name": "CUNEIFORM SIGN A2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀊",
+    "codepoint": "U+1200A",
+    "name": "CUNEIFORM SIGN AB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀋",
+    "codepoint": "U+1200B",
+    "name": "CUNEIFORM SIGN AB TIMES ASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀌",
+    "codepoint": "U+1200C",
+    "name": "CUNEIFORM SIGN AB TIMES DUN3 GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀍",
+    "codepoint": "U+1200D",
+    "name": "CUNEIFORM SIGN AB TIMES GAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀎",
+    "codepoint": "U+1200E",
+    "name": "CUNEIFORM SIGN AB TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀏",
+    "codepoint": "U+1200F",
+    "name": "CUNEIFORM SIGN AB TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀐",
+    "codepoint": "U+12010",
+    "name": "CUNEIFORM SIGN AB TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀑",
+    "codepoint": "U+12011",
+    "name": "CUNEIFORM SIGN AB TIMES IMIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀒",
+    "codepoint": "U+12012",
+    "name": "CUNEIFORM SIGN AB TIMES LAGAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀓",
+    "codepoint": "U+12013",
+    "name": "CUNEIFORM SIGN AB TIMES SHESH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀔",
+    "codepoint": "U+12014",
+    "name": "CUNEIFORM SIGN AB TIMES U PLUS U PLUS U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀕",
+    "codepoint": "U+12015",
+    "name": "CUNEIFORM SIGN AB GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀖",
+    "codepoint": "U+12016",
+    "name": "CUNEIFORM SIGN AB2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀗",
+    "codepoint": "U+12017",
+    "name": "CUNEIFORM SIGN AB2 TIMES BALAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀘",
+    "codepoint": "U+12018",
+    "name": "CUNEIFORM SIGN AB2 TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀙",
+    "codepoint": "U+12019",
+    "name": "CUNEIFORM SIGN AB2 TIMES ME PLUS EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀚",
+    "codepoint": "U+1201A",
+    "name": "CUNEIFORM SIGN AB2 TIMES SHA3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀛",
+    "codepoint": "U+1201B",
+    "name": "CUNEIFORM SIGN AB2 TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀜",
+    "codepoint": "U+1201C",
+    "name": "CUNEIFORM SIGN AD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀝",
+    "codepoint": "U+1201D",
+    "name": "CUNEIFORM SIGN AK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀞",
+    "codepoint": "U+1201E",
+    "name": "CUNEIFORM SIGN AK TIMES ERIN2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀟",
+    "codepoint": "U+1201F",
+    "name": "CUNEIFORM SIGN AK TIMES SHITA PLUS GISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀠",
+    "codepoint": "U+12020",
+    "name": "CUNEIFORM SIGN AL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀡",
+    "codepoint": "U+12021",
+    "name": "CUNEIFORM SIGN AL TIMES AL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀢",
+    "codepoint": "U+12022",
+    "name": "CUNEIFORM SIGN AL TIMES DIM2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀣",
+    "codepoint": "U+12023",
+    "name": "CUNEIFORM SIGN AL TIMES GISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀤",
+    "codepoint": "U+12024",
+    "name": "CUNEIFORM SIGN AL TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀥",
+    "codepoint": "U+12025",
+    "name": "CUNEIFORM SIGN AL TIMES KAD3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀦",
+    "codepoint": "U+12026",
+    "name": "CUNEIFORM SIGN AL TIMES KI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀧",
+    "codepoint": "U+12027",
+    "name": "CUNEIFORM SIGN AL TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀨",
+    "codepoint": "U+12028",
+    "name": "CUNEIFORM SIGN AL TIMES USH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀩",
+    "codepoint": "U+12029",
+    "name": "CUNEIFORM SIGN ALAN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀪",
+    "codepoint": "U+1202A",
+    "name": "CUNEIFORM SIGN ALEPH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀫",
+    "codepoint": "U+1202B",
+    "name": "CUNEIFORM SIGN AMAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀬",
+    "codepoint": "U+1202C",
+    "name": "CUNEIFORM SIGN AMAR TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀭",
+    "codepoint": "U+1202D",
+    "name": "CUNEIFORM SIGN AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀮",
+    "codepoint": "U+1202E",
+    "name": "CUNEIFORM SIGN AN OVER AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀯",
+    "codepoint": "U+1202F",
+    "name": "CUNEIFORM SIGN AN THREE TIMES",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀰",
+    "codepoint": "U+12030",
+    "name": "CUNEIFORM SIGN AN PLUS NAGA OPPOSING AN PLUS NAGA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀱",
+    "codepoint": "U+12031",
+    "name": "CUNEIFORM SIGN AN PLUS NAGA SQUARED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀲",
+    "codepoint": "U+12032",
+    "name": "CUNEIFORM SIGN ANSHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀳",
+    "codepoint": "U+12033",
+    "name": "CUNEIFORM SIGN APIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀴",
+    "codepoint": "U+12034",
+    "name": "CUNEIFORM SIGN ARAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀵",
+    "codepoint": "U+12035",
+    "name": "CUNEIFORM SIGN ARAD TIMES KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀶",
+    "codepoint": "U+12036",
+    "name": "CUNEIFORM SIGN ARKAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀷",
+    "codepoint": "U+12037",
+    "name": "CUNEIFORM SIGN ASAL2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀸",
+    "codepoint": "U+12038",
+    "name": "CUNEIFORM SIGN ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀹",
+    "codepoint": "U+12039",
+    "name": "CUNEIFORM SIGN ASH ZIDA TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀺",
+    "codepoint": "U+1203A",
+    "name": "CUNEIFORM SIGN ASH KABA TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀻",
+    "codepoint": "U+1203B",
+    "name": "CUNEIFORM SIGN ASH OVER ASH TUG2 OVER TUG2 TUG2 OVER TUG2 PAP",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀼",
+    "codepoint": "U+1203C",
+    "name": "CUNEIFORM SIGN ASH OVER ASH OVER ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀽",
+    "codepoint": "U+1203D",
+    "name": "CUNEIFORM SIGN ASH OVER ASH OVER ASH CROSSING ASH OVER ASH OVER ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀾",
+    "codepoint": "U+1203E",
+    "name": "CUNEIFORM SIGN ASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒀿",
+    "codepoint": "U+1203F",
+    "name": "CUNEIFORM SIGN ASHGAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁀",
+    "codepoint": "U+12040",
+    "name": "CUNEIFORM SIGN BA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁁",
+    "codepoint": "U+12041",
+    "name": "CUNEIFORM SIGN BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁂",
+    "codepoint": "U+12042",
+    "name": "CUNEIFORM SIGN BAG3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁃",
+    "codepoint": "U+12043",
+    "name": "CUNEIFORM SIGN BAHAR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁄",
+    "codepoint": "U+12044",
+    "name": "CUNEIFORM SIGN BAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁅",
+    "codepoint": "U+12045",
+    "name": "CUNEIFORM SIGN BAL OVER BAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁆",
+    "codepoint": "U+12046",
+    "name": "CUNEIFORM SIGN BALAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁇",
+    "codepoint": "U+12047",
+    "name": "CUNEIFORM SIGN BAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁈",
+    "codepoint": "U+12048",
+    "name": "CUNEIFORM SIGN BARA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁉",
+    "codepoint": "U+12049",
+    "name": "CUNEIFORM SIGN BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁊",
+    "codepoint": "U+1204A",
+    "name": "CUNEIFORM SIGN BI TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁋",
+    "codepoint": "U+1204B",
+    "name": "CUNEIFORM SIGN BI TIMES GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁌",
+    "codepoint": "U+1204C",
+    "name": "CUNEIFORM SIGN BI TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁍",
+    "codepoint": "U+1204D",
+    "name": "CUNEIFORM SIGN BU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁎",
+    "codepoint": "U+1204E",
+    "name": "CUNEIFORM SIGN BU OVER BU AB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁏",
+    "codepoint": "U+1204F",
+    "name": "CUNEIFORM SIGN BU OVER BU UN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁐",
+    "codepoint": "U+12050",
+    "name": "CUNEIFORM SIGN BU CROSSING BU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁑",
+    "codepoint": "U+12051",
+    "name": "CUNEIFORM SIGN BULUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁒",
+    "codepoint": "U+12052",
+    "name": "CUNEIFORM SIGN BULUG OVER BULUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁓",
+    "codepoint": "U+12053",
+    "name": "CUNEIFORM SIGN BUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁔",
+    "codepoint": "U+12054",
+    "name": "CUNEIFORM SIGN BUR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁕",
+    "codepoint": "U+12055",
+    "name": "CUNEIFORM SIGN DA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁖",
+    "codepoint": "U+12056",
+    "name": "CUNEIFORM SIGN DAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁗",
+    "codepoint": "U+12057",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES A PLUS MASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁘",
+    "codepoint": "U+12058",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES AMAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁙",
+    "codepoint": "U+12059",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES BALAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁚",
+    "codepoint": "U+1205A",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁛",
+    "codepoint": "U+1205B",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES GA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁜",
+    "codepoint": "U+1205C",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES GA PLUS MASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁝",
+    "codepoint": "U+1205D",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES GI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁞",
+    "codepoint": "U+1205E",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES GIR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁟",
+    "codepoint": "U+1205F",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁠",
+    "codepoint": "U+12060",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁡",
+    "codepoint": "U+12061",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES IR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁢",
+    "codepoint": "U+12062",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES IR PLUS LU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁣",
+    "codepoint": "U+12063",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES KAK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁤",
+    "codepoint": "U+12064",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES LA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁥",
+    "codepoint": "U+12065",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES LU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁦",
+    "codepoint": "U+12066",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES LU PLUS MASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁧",
+    "codepoint": "U+12067",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES LUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁨",
+    "codepoint": "U+12068",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES NE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁩",
+    "codepoint": "U+12069",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES PAP PLUS PAP",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁪",
+    "codepoint": "U+1206A",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES SI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁫",
+    "codepoint": "U+1206B",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁬",
+    "codepoint": "U+1206C",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS GIR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁭",
+    "codepoint": "U+1206D",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES USH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁮",
+    "codepoint": "U+1206E",
+    "name": "CUNEIFORM SIGN DAM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁯",
+    "codepoint": "U+1206F",
+    "name": "CUNEIFORM SIGN DAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁰",
+    "codepoint": "U+12070",
+    "name": "CUNEIFORM SIGN DARA3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁱",
+    "codepoint": "U+12071",
+    "name": "CUNEIFORM SIGN DARA4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁲",
+    "codepoint": "U+12072",
+    "name": "CUNEIFORM SIGN DI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁳",
+    "codepoint": "U+12073",
+    "name": "CUNEIFORM SIGN DIB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁴",
+    "codepoint": "U+12074",
+    "name": "CUNEIFORM SIGN DIM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁵",
+    "codepoint": "U+12075",
+    "name": "CUNEIFORM SIGN DIM TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁶",
+    "codepoint": "U+12076",
+    "name": "CUNEIFORM SIGN DIM2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁷",
+    "codepoint": "U+12077",
+    "name": "CUNEIFORM SIGN DIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁸",
+    "codepoint": "U+12078",
+    "name": "CUNEIFORM SIGN DIN KASKAL U GUNU DISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁹",
+    "codepoint": "U+12079",
+    "name": "CUNEIFORM SIGN DISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁺",
+    "codepoint": "U+1207A",
+    "name": "CUNEIFORM SIGN DU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁻",
+    "codepoint": "U+1207B",
+    "name": "CUNEIFORM SIGN DU OVER DU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁼",
+    "codepoint": "U+1207C",
+    "name": "CUNEIFORM SIGN DU GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁽",
+    "codepoint": "U+1207D",
+    "name": "CUNEIFORM SIGN DU SHESHIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁾",
+    "codepoint": "U+1207E",
+    "name": "CUNEIFORM SIGN DUB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒁿",
+    "codepoint": "U+1207F",
+    "name": "CUNEIFORM SIGN DUB TIMES ESH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂀",
+    "codepoint": "U+12080",
+    "name": "CUNEIFORM SIGN DUB2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂁",
+    "codepoint": "U+12081",
+    "name": "CUNEIFORM SIGN DUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂂",
+    "codepoint": "U+12082",
+    "name": "CUNEIFORM SIGN DUGUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂃",
+    "codepoint": "U+12083",
+    "name": "CUNEIFORM SIGN DUH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂄",
+    "codepoint": "U+12084",
+    "name": "CUNEIFORM SIGN DUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂅",
+    "codepoint": "U+12085",
+    "name": "CUNEIFORM SIGN DUN3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂆",
+    "codepoint": "U+12086",
+    "name": "CUNEIFORM SIGN DUN3 GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂇",
+    "codepoint": "U+12087",
+    "name": "CUNEIFORM SIGN DUN3 GUNU GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂈",
+    "codepoint": "U+12088",
+    "name": "CUNEIFORM SIGN DUN4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂉",
+    "codepoint": "U+12089",
+    "name": "CUNEIFORM SIGN DUR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂊",
+    "codepoint": "U+1208A",
+    "name": "CUNEIFORM SIGN E",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂋",
+    "codepoint": "U+1208B",
+    "name": "CUNEIFORM SIGN E TIMES PAP",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂌",
+    "codepoint": "U+1208C",
+    "name": "CUNEIFORM SIGN E OVER E NUN OVER NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂍",
+    "codepoint": "U+1208D",
+    "name": "CUNEIFORM SIGN E2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂎",
+    "codepoint": "U+1208E",
+    "name": "CUNEIFORM SIGN E2 TIMES A PLUS HA PLUS DA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂏",
+    "codepoint": "U+1208F",
+    "name": "CUNEIFORM SIGN E2 TIMES GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂐",
+    "codepoint": "U+12090",
+    "name": "CUNEIFORM SIGN E2 TIMES MI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂑",
+    "codepoint": "U+12091",
+    "name": "CUNEIFORM SIGN E2 TIMES SAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂒",
+    "codepoint": "U+12092",
+    "name": "CUNEIFORM SIGN E2 TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂓",
+    "codepoint": "U+12093",
+    "name": "CUNEIFORM SIGN E2 TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂔",
+    "codepoint": "U+12094",
+    "name": "CUNEIFORM SIGN EDIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂕",
+    "codepoint": "U+12095",
+    "name": "CUNEIFORM SIGN EGIR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂖",
+    "codepoint": "U+12096",
+    "name": "CUNEIFORM SIGN EL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂗",
+    "codepoint": "U+12097",
+    "name": "CUNEIFORM SIGN EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂘",
+    "codepoint": "U+12098",
+    "name": "CUNEIFORM SIGN EN TIMES GAN2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂙",
+    "codepoint": "U+12099",
+    "name": "CUNEIFORM SIGN EN TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂚",
+    "codepoint": "U+1209A",
+    "name": "CUNEIFORM SIGN EN TIMES ME",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂛",
+    "codepoint": "U+1209B",
+    "name": "CUNEIFORM SIGN EN CROSSING EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂜",
+    "codepoint": "U+1209C",
+    "name": "CUNEIFORM SIGN EN OPPOSING EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂝",
+    "codepoint": "U+1209D",
+    "name": "CUNEIFORM SIGN EN SQUARED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂞",
+    "codepoint": "U+1209E",
+    "name": "CUNEIFORM SIGN EREN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂟",
+    "codepoint": "U+1209F",
+    "name": "CUNEIFORM SIGN ERIN2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂠",
+    "codepoint": "U+120A0",
+    "name": "CUNEIFORM SIGN ESH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂡",
+    "codepoint": "U+120A1",
+    "name": "CUNEIFORM SIGN EZEN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂢",
+    "codepoint": "U+120A2",
+    "name": "CUNEIFORM SIGN EZEN TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂣",
+    "codepoint": "U+120A3",
+    "name": "CUNEIFORM SIGN EZEN TIMES A PLUS LAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂤",
+    "codepoint": "U+120A4",
+    "name": "CUNEIFORM SIGN EZEN TIMES A PLUS LAL TIMES LAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂥",
+    "codepoint": "U+120A5",
+    "name": "CUNEIFORM SIGN EZEN TIMES AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂦",
+    "codepoint": "U+120A6",
+    "name": "CUNEIFORM SIGN EZEN TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂧",
+    "codepoint": "U+120A7",
+    "name": "CUNEIFORM SIGN EZEN TIMES DUN3 GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂨",
+    "codepoint": "U+120A8",
+    "name": "CUNEIFORM SIGN EZEN TIMES DUN3 GUNU GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂩",
+    "codepoint": "U+120A9",
+    "name": "CUNEIFORM SIGN EZEN TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂪",
+    "codepoint": "U+120AA",
+    "name": "CUNEIFORM SIGN EZEN TIMES HA GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂫",
+    "codepoint": "U+120AB",
+    "name": "CUNEIFORM SIGN EZEN TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂬",
+    "codepoint": "U+120AC",
+    "name": "CUNEIFORM SIGN EZEN TIMES KASKAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂭",
+    "codepoint": "U+120AD",
+    "name": "CUNEIFORM SIGN EZEN TIMES KASKAL SQUARED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂮",
+    "codepoint": "U+120AE",
+    "name": "CUNEIFORM SIGN EZEN TIMES KU3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂯",
+    "codepoint": "U+120AF",
+    "name": "CUNEIFORM SIGN EZEN TIMES LA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂰",
+    "codepoint": "U+120B0",
+    "name": "CUNEIFORM SIGN EZEN TIMES LAL TIMES LAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂱",
+    "codepoint": "U+120B1",
+    "name": "CUNEIFORM SIGN EZEN TIMES LI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂲",
+    "codepoint": "U+120B2",
+    "name": "CUNEIFORM SIGN EZEN TIMES LU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂳",
+    "codepoint": "U+120B3",
+    "name": "CUNEIFORM SIGN EZEN TIMES U2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂴",
+    "codepoint": "U+120B4",
+    "name": "CUNEIFORM SIGN EZEN TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂵",
+    "codepoint": "U+120B5",
+    "name": "CUNEIFORM SIGN GA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂶",
+    "codepoint": "U+120B6",
+    "name": "CUNEIFORM SIGN GA GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂷",
+    "codepoint": "U+120B7",
+    "name": "CUNEIFORM SIGN GA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂸",
+    "codepoint": "U+120B8",
+    "name": "CUNEIFORM SIGN GA2 TIMES A PLUS DA PLUS HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂹",
+    "codepoint": "U+120B9",
+    "name": "CUNEIFORM SIGN GA2 TIMES A PLUS HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂺",
+    "codepoint": "U+120BA",
+    "name": "CUNEIFORM SIGN GA2 TIMES A PLUS IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂻",
+    "codepoint": "U+120BB",
+    "name": "CUNEIFORM SIGN GA2 TIMES AB2 TENU PLUS TAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂼",
+    "codepoint": "U+120BC",
+    "name": "CUNEIFORM SIGN GA2 TIMES AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂽",
+    "codepoint": "U+120BD",
+    "name": "CUNEIFORM SIGN GA2 TIMES ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂾",
+    "codepoint": "U+120BE",
+    "name": "CUNEIFORM SIGN GA2 TIMES ASH2 PLUS GAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒂿",
+    "codepoint": "U+120BF",
+    "name": "CUNEIFORM SIGN GA2 TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃀",
+    "codepoint": "U+120C0",
+    "name": "CUNEIFORM SIGN GA2 TIMES BAR PLUS RA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃁",
+    "codepoint": "U+120C1",
+    "name": "CUNEIFORM SIGN GA2 TIMES BUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃂",
+    "codepoint": "U+120C2",
+    "name": "CUNEIFORM SIGN GA2 TIMES BUR PLUS RA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃃",
+    "codepoint": "U+120C3",
+    "name": "CUNEIFORM SIGN GA2 TIMES DA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃄",
+    "codepoint": "U+120C4",
+    "name": "CUNEIFORM SIGN GA2 TIMES DI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃅",
+    "codepoint": "U+120C5",
+    "name": "CUNEIFORM SIGN GA2 TIMES DIM TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃆",
+    "codepoint": "U+120C6",
+    "name": "CUNEIFORM SIGN GA2 TIMES DUB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃇",
+    "codepoint": "U+120C7",
+    "name": "CUNEIFORM SIGN GA2 TIMES EL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃈",
+    "codepoint": "U+120C8",
+    "name": "CUNEIFORM SIGN GA2 TIMES EL PLUS LA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃉",
+    "codepoint": "U+120C9",
+    "name": "CUNEIFORM SIGN GA2 TIMES EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃊",
+    "codepoint": "U+120CA",
+    "name": "CUNEIFORM SIGN GA2 TIMES EN TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃋",
+    "codepoint": "U+120CB",
+    "name": "CUNEIFORM SIGN GA2 TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃌",
+    "codepoint": "U+120CC",
+    "name": "CUNEIFORM SIGN GA2 TIMES GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃍",
+    "codepoint": "U+120CD",
+    "name": "CUNEIFORM SIGN GA2 TIMES GI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃎",
+    "codepoint": "U+120CE",
+    "name": "CUNEIFORM SIGN GA2 TIMES GI4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃏",
+    "codepoint": "U+120CF",
+    "name": "CUNEIFORM SIGN GA2 TIMES GI4 PLUS A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃐",
+    "codepoint": "U+120D0",
+    "name": "CUNEIFORM SIGN GA2 TIMES GIR2 PLUS SU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃑",
+    "codepoint": "U+120D1",
+    "name": "CUNEIFORM SIGN GA2 TIMES HA PLUS LU PLUS ESH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃒",
+    "codepoint": "U+120D2",
+    "name": "CUNEIFORM SIGN GA2 TIMES HAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃓",
+    "codepoint": "U+120D3",
+    "name": "CUNEIFORM SIGN GA2 TIMES HAL PLUS LA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃔",
+    "codepoint": "U+120D4",
+    "name": "CUNEIFORM SIGN GA2 TIMES HI PLUS LI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃕",
+    "codepoint": "U+120D5",
+    "name": "CUNEIFORM SIGN GA2 TIMES HUB2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃖",
+    "codepoint": "U+120D6",
+    "name": "CUNEIFORM SIGN GA2 TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃗",
+    "codepoint": "U+120D7",
+    "name": "CUNEIFORM SIGN GA2 TIMES ISH PLUS HU PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃘",
+    "codepoint": "U+120D8",
+    "name": "CUNEIFORM SIGN GA2 TIMES KAK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃙",
+    "codepoint": "U+120D9",
+    "name": "CUNEIFORM SIGN GA2 TIMES KASKAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃚",
+    "codepoint": "U+120DA",
+    "name": "CUNEIFORM SIGN GA2 TIMES KID",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃛",
+    "codepoint": "U+120DB",
+    "name": "CUNEIFORM SIGN GA2 TIMES KID PLUS LAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃜",
+    "codepoint": "U+120DC",
+    "name": "CUNEIFORM SIGN GA2 TIMES KU3 PLUS AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃝",
+    "codepoint": "U+120DD",
+    "name": "CUNEIFORM SIGN GA2 TIMES LA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃞",
+    "codepoint": "U+120DE",
+    "name": "CUNEIFORM SIGN GA2 TIMES ME PLUS EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃟",
+    "codepoint": "U+120DF",
+    "name": "CUNEIFORM SIGN GA2 TIMES MI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃠",
+    "codepoint": "U+120E0",
+    "name": "CUNEIFORM SIGN GA2 TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃡",
+    "codepoint": "U+120E1",
+    "name": "CUNEIFORM SIGN GA2 TIMES NUN OVER NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃢",
+    "codepoint": "U+120E2",
+    "name": "CUNEIFORM SIGN GA2 TIMES PA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃣",
+    "codepoint": "U+120E3",
+    "name": "CUNEIFORM SIGN GA2 TIMES SAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃤",
+    "codepoint": "U+120E4",
+    "name": "CUNEIFORM SIGN GA2 TIMES SAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃥",
+    "codepoint": "U+120E5",
+    "name": "CUNEIFORM SIGN GA2 TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃦",
+    "codepoint": "U+120E6",
+    "name": "CUNEIFORM SIGN GA2 TIMES SHE PLUS TUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃧",
+    "codepoint": "U+120E7",
+    "name": "CUNEIFORM SIGN GA2 TIMES SHID",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃨",
+    "codepoint": "U+120E8",
+    "name": "CUNEIFORM SIGN GA2 TIMES SUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃩",
+    "codepoint": "U+120E9",
+    "name": "CUNEIFORM SIGN GA2 TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃪",
+    "codepoint": "U+120EA",
+    "name": "CUNEIFORM SIGN GA2 TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃫",
+    "codepoint": "U+120EB",
+    "name": "CUNEIFORM SIGN GA2 TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃬",
+    "codepoint": "U+120EC",
+    "name": "CUNEIFORM SIGN GA2 TIMES UD PLUS DU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃭",
+    "codepoint": "U+120ED",
+    "name": "CUNEIFORM SIGN GA2 OVER GA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃮",
+    "codepoint": "U+120EE",
+    "name": "CUNEIFORM SIGN GABA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃯",
+    "codepoint": "U+120EF",
+    "name": "CUNEIFORM SIGN GABA CROSSING GABA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃰",
+    "codepoint": "U+120F0",
+    "name": "CUNEIFORM SIGN GAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃱",
+    "codepoint": "U+120F1",
+    "name": "CUNEIFORM SIGN GAD OVER GAD GAR OVER GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃲",
+    "codepoint": "U+120F2",
+    "name": "CUNEIFORM SIGN GAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃳",
+    "codepoint": "U+120F3",
+    "name": "CUNEIFORM SIGN GAL GAD OVER GAD GAR OVER GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃴",
+    "codepoint": "U+120F4",
+    "name": "CUNEIFORM SIGN GALAM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃵",
+    "codepoint": "U+120F5",
+    "name": "CUNEIFORM SIGN GAM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃶",
+    "codepoint": "U+120F6",
+    "name": "CUNEIFORM SIGN GAN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃷",
+    "codepoint": "U+120F7",
+    "name": "CUNEIFORM SIGN GAN2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃸",
+    "codepoint": "U+120F8",
+    "name": "CUNEIFORM SIGN GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃹",
+    "codepoint": "U+120F9",
+    "name": "CUNEIFORM SIGN GAN2 OVER GAN2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃺",
+    "codepoint": "U+120FA",
+    "name": "CUNEIFORM SIGN GAN2 CROSSING GAN2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃻",
+    "codepoint": "U+120FB",
+    "name": "CUNEIFORM SIGN GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃼",
+    "codepoint": "U+120FC",
+    "name": "CUNEIFORM SIGN GAR3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃽",
+    "codepoint": "U+120FD",
+    "name": "CUNEIFORM SIGN GASHAN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃾",
+    "codepoint": "U+120FE",
+    "name": "CUNEIFORM SIGN GESHTIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒃿",
+    "codepoint": "U+120FF",
+    "name": "CUNEIFORM SIGN GESHTIN TIMES KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄀",
+    "codepoint": "U+12100",
+    "name": "CUNEIFORM SIGN GI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄁",
+    "codepoint": "U+12101",
+    "name": "CUNEIFORM SIGN GI TIMES E",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄂",
+    "codepoint": "U+12102",
+    "name": "CUNEIFORM SIGN GI TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄃",
+    "codepoint": "U+12103",
+    "name": "CUNEIFORM SIGN GI CROSSING GI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄄",
+    "codepoint": "U+12104",
+    "name": "CUNEIFORM SIGN GI4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄅",
+    "codepoint": "U+12105",
+    "name": "CUNEIFORM SIGN GI4 OVER GI4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄆",
+    "codepoint": "U+12106",
+    "name": "CUNEIFORM SIGN GI4 CROSSING GI4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄇",
+    "codepoint": "U+12107",
+    "name": "CUNEIFORM SIGN GIDIM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄈",
+    "codepoint": "U+12108",
+    "name": "CUNEIFORM SIGN GIR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄉",
+    "codepoint": "U+12109",
+    "name": "CUNEIFORM SIGN GIR2 GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄊",
+    "codepoint": "U+1210A",
+    "name": "CUNEIFORM SIGN GIR3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄋",
+    "codepoint": "U+1210B",
+    "name": "CUNEIFORM SIGN GIR3 TIMES A PLUS IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄌",
+    "codepoint": "U+1210C",
+    "name": "CUNEIFORM SIGN GIR3 TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄍",
+    "codepoint": "U+1210D",
+    "name": "CUNEIFORM SIGN GIR3 TIMES IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄎",
+    "codepoint": "U+1210E",
+    "name": "CUNEIFORM SIGN GIR3 TIMES LU PLUS IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄏",
+    "codepoint": "U+1210F",
+    "name": "CUNEIFORM SIGN GIR3 TIMES PA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄐",
+    "codepoint": "U+12110",
+    "name": "CUNEIFORM SIGN GISAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄑",
+    "codepoint": "U+12111",
+    "name": "CUNEIFORM SIGN GISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄒",
+    "codepoint": "U+12112",
+    "name": "CUNEIFORM SIGN GISH CROSSING GISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄓",
+    "codepoint": "U+12113",
+    "name": "CUNEIFORM SIGN GISH TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄔",
+    "codepoint": "U+12114",
+    "name": "CUNEIFORM SIGN GISH TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄕",
+    "codepoint": "U+12115",
+    "name": "CUNEIFORM SIGN GISH TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄖",
+    "codepoint": "U+12116",
+    "name": "CUNEIFORM SIGN GU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄗",
+    "codepoint": "U+12117",
+    "name": "CUNEIFORM SIGN GU CROSSING GU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄘",
+    "codepoint": "U+12118",
+    "name": "CUNEIFORM SIGN GU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄙",
+    "codepoint": "U+12119",
+    "name": "CUNEIFORM SIGN GU2 TIMES KAK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄚",
+    "codepoint": "U+1211A",
+    "name": "CUNEIFORM SIGN GU2 TIMES KAK TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄛",
+    "codepoint": "U+1211B",
+    "name": "CUNEIFORM SIGN GU2 TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄜",
+    "codepoint": "U+1211C",
+    "name": "CUNEIFORM SIGN GU2 TIMES SAL PLUS TUG2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄝",
+    "codepoint": "U+1211D",
+    "name": "CUNEIFORM SIGN GU2 GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄞",
+    "codepoint": "U+1211E",
+    "name": "CUNEIFORM SIGN GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄟",
+    "codepoint": "U+1211F",
+    "name": "CUNEIFORM SIGN GUD TIMES A PLUS KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄠",
+    "codepoint": "U+12120",
+    "name": "CUNEIFORM SIGN GUD TIMES KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄡",
+    "codepoint": "U+12121",
+    "name": "CUNEIFORM SIGN GUD OVER GUD LUGAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄢",
+    "codepoint": "U+12122",
+    "name": "CUNEIFORM SIGN GUL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄣",
+    "codepoint": "U+12123",
+    "name": "CUNEIFORM SIGN GUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄤",
+    "codepoint": "U+12124",
+    "name": "CUNEIFORM SIGN GUM TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄥",
+    "codepoint": "U+12125",
+    "name": "CUNEIFORM SIGN GUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄦",
+    "codepoint": "U+12126",
+    "name": "CUNEIFORM SIGN GUR7",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄧",
+    "codepoint": "U+12127",
+    "name": "CUNEIFORM SIGN GURUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄨",
+    "codepoint": "U+12128",
+    "name": "CUNEIFORM SIGN GURUSH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄩",
+    "codepoint": "U+12129",
+    "name": "CUNEIFORM SIGN HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄪",
+    "codepoint": "U+1212A",
+    "name": "CUNEIFORM SIGN HA TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄫",
+    "codepoint": "U+1212B",
+    "name": "CUNEIFORM SIGN HA GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄬",
+    "codepoint": "U+1212C",
+    "name": "CUNEIFORM SIGN HAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄭",
+    "codepoint": "U+1212D",
+    "name": "CUNEIFORM SIGN HI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄮",
+    "codepoint": "U+1212E",
+    "name": "CUNEIFORM SIGN HI TIMES ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄯",
+    "codepoint": "U+1212F",
+    "name": "CUNEIFORM SIGN HI TIMES ASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄰",
+    "codepoint": "U+12130",
+    "name": "CUNEIFORM SIGN HI TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄱",
+    "codepoint": "U+12131",
+    "name": "CUNEIFORM SIGN HI TIMES DISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄲",
+    "codepoint": "U+12132",
+    "name": "CUNEIFORM SIGN HI TIMES GAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄳",
+    "codepoint": "U+12133",
+    "name": "CUNEIFORM SIGN HI TIMES KIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄴",
+    "codepoint": "U+12134",
+    "name": "CUNEIFORM SIGN HI TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄵",
+    "codepoint": "U+12135",
+    "name": "CUNEIFORM SIGN HI TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄶",
+    "codepoint": "U+12136",
+    "name": "CUNEIFORM SIGN HI TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄷",
+    "codepoint": "U+12137",
+    "name": "CUNEIFORM SIGN HU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄸",
+    "codepoint": "U+12138",
+    "name": "CUNEIFORM SIGN HUB2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄹",
+    "codepoint": "U+12139",
+    "name": "CUNEIFORM SIGN HUB2 TIMES AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄺",
+    "codepoint": "U+1213A",
+    "name": "CUNEIFORM SIGN HUB2 TIMES HAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄻",
+    "codepoint": "U+1213B",
+    "name": "CUNEIFORM SIGN HUB2 TIMES KASKAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄼",
+    "codepoint": "U+1213C",
+    "name": "CUNEIFORM SIGN HUB2 TIMES LISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄽",
+    "codepoint": "U+1213D",
+    "name": "CUNEIFORM SIGN HUB2 TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄾",
+    "codepoint": "U+1213E",
+    "name": "CUNEIFORM SIGN HUL2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒄿",
+    "codepoint": "U+1213F",
+    "name": "CUNEIFORM SIGN I",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅀",
+    "codepoint": "U+12140",
+    "name": "CUNEIFORM SIGN I A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅁",
+    "codepoint": "U+12141",
+    "name": "CUNEIFORM SIGN IB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅂",
+    "codepoint": "U+12142",
+    "name": "CUNEIFORM SIGN IDIM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅃",
+    "codepoint": "U+12143",
+    "name": "CUNEIFORM SIGN IDIM OVER IDIM BUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅄",
+    "codepoint": "U+12144",
+    "name": "CUNEIFORM SIGN IDIM OVER IDIM SQUARED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅅",
+    "codepoint": "U+12145",
+    "name": "CUNEIFORM SIGN IG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅆",
+    "codepoint": "U+12146",
+    "name": "CUNEIFORM SIGN IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅇",
+    "codepoint": "U+12147",
+    "name": "CUNEIFORM SIGN IGI DIB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅈",
+    "codepoint": "U+12148",
+    "name": "CUNEIFORM SIGN IGI RI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅉",
+    "codepoint": "U+12149",
+    "name": "CUNEIFORM SIGN IGI OVER IGI SHIR OVER SHIR UD OVER UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅊",
+    "codepoint": "U+1214A",
+    "name": "CUNEIFORM SIGN IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅋",
+    "codepoint": "U+1214B",
+    "name": "CUNEIFORM SIGN IL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅌",
+    "codepoint": "U+1214C",
+    "name": "CUNEIFORM SIGN IL TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅍",
+    "codepoint": "U+1214D",
+    "name": "CUNEIFORM SIGN IL2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅎",
+    "codepoint": "U+1214E",
+    "name": "CUNEIFORM SIGN IM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅏",
+    "codepoint": "U+1214F",
+    "name": "CUNEIFORM SIGN IM TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅐",
+    "codepoint": "U+12150",
+    "name": "CUNEIFORM SIGN IM CROSSING IM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅑",
+    "codepoint": "U+12151",
+    "name": "CUNEIFORM SIGN IM OPPOSING IM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅒",
+    "codepoint": "U+12152",
+    "name": "CUNEIFORM SIGN IM SQUARED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅓",
+    "codepoint": "U+12153",
+    "name": "CUNEIFORM SIGN IMIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅔",
+    "codepoint": "U+12154",
+    "name": "CUNEIFORM SIGN IN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅕",
+    "codepoint": "U+12155",
+    "name": "CUNEIFORM SIGN IR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅖",
+    "codepoint": "U+12156",
+    "name": "CUNEIFORM SIGN ISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅗",
+    "codepoint": "U+12157",
+    "name": "CUNEIFORM SIGN KA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅘",
+    "codepoint": "U+12158",
+    "name": "CUNEIFORM SIGN KA TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅙",
+    "codepoint": "U+12159",
+    "name": "CUNEIFORM SIGN KA TIMES AD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅚",
+    "codepoint": "U+1215A",
+    "name": "CUNEIFORM SIGN KA TIMES AD PLUS KU3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅛",
+    "codepoint": "U+1215B",
+    "name": "CUNEIFORM SIGN KA TIMES ASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅜",
+    "codepoint": "U+1215C",
+    "name": "CUNEIFORM SIGN KA TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅝",
+    "codepoint": "U+1215D",
+    "name": "CUNEIFORM SIGN KA TIMES BALAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅞",
+    "codepoint": "U+1215E",
+    "name": "CUNEIFORM SIGN KA TIMES BAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅟",
+    "codepoint": "U+1215F",
+    "name": "CUNEIFORM SIGN KA TIMES BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅠",
+    "codepoint": "U+12160",
+    "name": "CUNEIFORM SIGN KA TIMES ERIN2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅡",
+    "codepoint": "U+12161",
+    "name": "CUNEIFORM SIGN KA TIMES ESH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅢",
+    "codepoint": "U+12162",
+    "name": "CUNEIFORM SIGN KA TIMES GA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅣",
+    "codepoint": "U+12163",
+    "name": "CUNEIFORM SIGN KA TIMES GAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅤",
+    "codepoint": "U+12164",
+    "name": "CUNEIFORM SIGN KA TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅥",
+    "codepoint": "U+12165",
+    "name": "CUNEIFORM SIGN KA TIMES GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅦",
+    "codepoint": "U+12166",
+    "name": "CUNEIFORM SIGN KA TIMES GAR PLUS SHA3 PLUS A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅧",
+    "codepoint": "U+12167",
+    "name": "CUNEIFORM SIGN KA TIMES GI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅨",
+    "codepoint": "U+12168",
+    "name": "CUNEIFORM SIGN KA TIMES GIR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅩",
+    "codepoint": "U+12169",
+    "name": "CUNEIFORM SIGN KA TIMES GISH PLUS SAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅪",
+    "codepoint": "U+1216A",
+    "name": "CUNEIFORM SIGN KA TIMES GISH CROSSING GISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅫",
+    "codepoint": "U+1216B",
+    "name": "CUNEIFORM SIGN KA TIMES GU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅬",
+    "codepoint": "U+1216C",
+    "name": "CUNEIFORM SIGN KA TIMES GUR7",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅭",
+    "codepoint": "U+1216D",
+    "name": "CUNEIFORM SIGN KA TIMES IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅮",
+    "codepoint": "U+1216E",
+    "name": "CUNEIFORM SIGN KA TIMES IM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅯",
+    "codepoint": "U+1216F",
+    "name": "CUNEIFORM SIGN KA TIMES KAK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅰",
+    "codepoint": "U+12170",
+    "name": "CUNEIFORM SIGN KA TIMES KI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅱",
+    "codepoint": "U+12171",
+    "name": "CUNEIFORM SIGN KA TIMES KID",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅲",
+    "codepoint": "U+12172",
+    "name": "CUNEIFORM SIGN KA TIMES LI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅳",
+    "codepoint": "U+12173",
+    "name": "CUNEIFORM SIGN KA TIMES LU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅴",
+    "codepoint": "U+12174",
+    "name": "CUNEIFORM SIGN KA TIMES ME",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅵",
+    "codepoint": "U+12175",
+    "name": "CUNEIFORM SIGN KA TIMES ME PLUS DU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅶",
+    "codepoint": "U+12176",
+    "name": "CUNEIFORM SIGN KA TIMES ME PLUS GI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅷",
+    "codepoint": "U+12177",
+    "name": "CUNEIFORM SIGN KA TIMES ME PLUS TE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅸",
+    "codepoint": "U+12178",
+    "name": "CUNEIFORM SIGN KA TIMES MI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅹",
+    "codepoint": "U+12179",
+    "name": "CUNEIFORM SIGN KA TIMES MI PLUS NUNUZ",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅺",
+    "codepoint": "U+1217A",
+    "name": "CUNEIFORM SIGN KA TIMES NE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅻",
+    "codepoint": "U+1217B",
+    "name": "CUNEIFORM SIGN KA TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅼",
+    "codepoint": "U+1217C",
+    "name": "CUNEIFORM SIGN KA TIMES PI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅽",
+    "codepoint": "U+1217D",
+    "name": "CUNEIFORM SIGN KA TIMES RU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅾",
+    "codepoint": "U+1217E",
+    "name": "CUNEIFORM SIGN KA TIMES SA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒅿",
+    "codepoint": "U+1217F",
+    "name": "CUNEIFORM SIGN KA TIMES SAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆀",
+    "codepoint": "U+12180",
+    "name": "CUNEIFORM SIGN KA TIMES SHA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆁",
+    "codepoint": "U+12181",
+    "name": "CUNEIFORM SIGN KA TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆂",
+    "codepoint": "U+12182",
+    "name": "CUNEIFORM SIGN KA TIMES SHID",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆃",
+    "codepoint": "U+12183",
+    "name": "CUNEIFORM SIGN KA TIMES SHU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆄",
+    "codepoint": "U+12184",
+    "name": "CUNEIFORM SIGN KA TIMES SIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆅",
+    "codepoint": "U+12185",
+    "name": "CUNEIFORM SIGN KA TIMES SUHUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆆",
+    "codepoint": "U+12186",
+    "name": "CUNEIFORM SIGN KA TIMES TAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆇",
+    "codepoint": "U+12187",
+    "name": "CUNEIFORM SIGN KA TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆈",
+    "codepoint": "U+12188",
+    "name": "CUNEIFORM SIGN KA TIMES U2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆉",
+    "codepoint": "U+12189",
+    "name": "CUNEIFORM SIGN KA TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆊",
+    "codepoint": "U+1218A",
+    "name": "CUNEIFORM SIGN KA TIMES UMUM TIMES PA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆋",
+    "codepoint": "U+1218B",
+    "name": "CUNEIFORM SIGN KA TIMES USH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆌",
+    "codepoint": "U+1218C",
+    "name": "CUNEIFORM SIGN KA TIMES ZI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆍",
+    "codepoint": "U+1218D",
+    "name": "CUNEIFORM SIGN KA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆎",
+    "codepoint": "U+1218E",
+    "name": "CUNEIFORM SIGN KA2 CROSSING KA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆏",
+    "codepoint": "U+1218F",
+    "name": "CUNEIFORM SIGN KAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆐",
+    "codepoint": "U+12190",
+    "name": "CUNEIFORM SIGN KAD2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆑",
+    "codepoint": "U+12191",
+    "name": "CUNEIFORM SIGN KAD3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆒",
+    "codepoint": "U+12192",
+    "name": "CUNEIFORM SIGN KAD4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆓",
+    "codepoint": "U+12193",
+    "name": "CUNEIFORM SIGN KAD5",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆔",
+    "codepoint": "U+12194",
+    "name": "CUNEIFORM SIGN KAD5 OVER KAD5",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆕",
+    "codepoint": "U+12195",
+    "name": "CUNEIFORM SIGN KAK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆖",
+    "codepoint": "U+12196",
+    "name": "CUNEIFORM SIGN KAK TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆗",
+    "codepoint": "U+12197",
+    "name": "CUNEIFORM SIGN KAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆘",
+    "codepoint": "U+12198",
+    "name": "CUNEIFORM SIGN KAL TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆙",
+    "codepoint": "U+12199",
+    "name": "CUNEIFORM SIGN KAL CROSSING KAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆚",
+    "codepoint": "U+1219A",
+    "name": "CUNEIFORM SIGN KAM2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆛",
+    "codepoint": "U+1219B",
+    "name": "CUNEIFORM SIGN KAM4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆜",
+    "codepoint": "U+1219C",
+    "name": "CUNEIFORM SIGN KASKAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆝",
+    "codepoint": "U+1219D",
+    "name": "CUNEIFORM SIGN KASKAL LAGAB TIMES U OVER LAGAB TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆞",
+    "codepoint": "U+1219E",
+    "name": "CUNEIFORM SIGN KASKAL OVER KASKAL LAGAB TIMES U OVER LAGAB TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆟",
+    "codepoint": "U+1219F",
+    "name": "CUNEIFORM SIGN KESH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆠",
+    "codepoint": "U+121A0",
+    "name": "CUNEIFORM SIGN KI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆡",
+    "codepoint": "U+121A1",
+    "name": "CUNEIFORM SIGN KI TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆢",
+    "codepoint": "U+121A2",
+    "name": "CUNEIFORM SIGN KI TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆣",
+    "codepoint": "U+121A3",
+    "name": "CUNEIFORM SIGN KI TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆤",
+    "codepoint": "U+121A4",
+    "name": "CUNEIFORM SIGN KID",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆥",
+    "codepoint": "U+121A5",
+    "name": "CUNEIFORM SIGN KIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆦",
+    "codepoint": "U+121A6",
+    "name": "CUNEIFORM SIGN KISAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆧",
+    "codepoint": "U+121A7",
+    "name": "CUNEIFORM SIGN KISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆨",
+    "codepoint": "U+121A8",
+    "name": "CUNEIFORM SIGN KISIM5",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆩",
+    "codepoint": "U+121A9",
+    "name": "CUNEIFORM SIGN KISIM5 OVER KISIM5",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆪",
+    "codepoint": "U+121AA",
+    "name": "CUNEIFORM SIGN KU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆫",
+    "codepoint": "U+121AB",
+    "name": "CUNEIFORM SIGN KU OVER HI TIMES ASH2 KU OVER HI TIMES ASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆬",
+    "codepoint": "U+121AC",
+    "name": "CUNEIFORM SIGN KU3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆭",
+    "codepoint": "U+121AD",
+    "name": "CUNEIFORM SIGN KU4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆮",
+    "codepoint": "U+121AE",
+    "name": "CUNEIFORM SIGN KU4 VARIANT FORM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆯",
+    "codepoint": "U+121AF",
+    "name": "CUNEIFORM SIGN KU7",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆰",
+    "codepoint": "U+121B0",
+    "name": "CUNEIFORM SIGN KUL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆱",
+    "codepoint": "U+121B1",
+    "name": "CUNEIFORM SIGN KUL GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆲",
+    "codepoint": "U+121B2",
+    "name": "CUNEIFORM SIGN KUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆳",
+    "codepoint": "U+121B3",
+    "name": "CUNEIFORM SIGN KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆴",
+    "codepoint": "U+121B4",
+    "name": "CUNEIFORM SIGN KUR OPPOSING KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆵",
+    "codepoint": "U+121B5",
+    "name": "CUNEIFORM SIGN KUSHU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆶",
+    "codepoint": "U+121B6",
+    "name": "CUNEIFORM SIGN KWU318",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆷",
+    "codepoint": "U+121B7",
+    "name": "CUNEIFORM SIGN LA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆸",
+    "codepoint": "U+121B8",
+    "name": "CUNEIFORM SIGN LAGAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆹",
+    "codepoint": "U+121B9",
+    "name": "CUNEIFORM SIGN LAGAB TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆺",
+    "codepoint": "U+121BA",
+    "name": "CUNEIFORM SIGN LAGAB TIMES A PLUS DA PLUS HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆻",
+    "codepoint": "U+121BB",
+    "name": "CUNEIFORM SIGN LAGAB TIMES A PLUS GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆼",
+    "codepoint": "U+121BC",
+    "name": "CUNEIFORM SIGN LAGAB TIMES A PLUS LAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆽",
+    "codepoint": "U+121BD",
+    "name": "CUNEIFORM SIGN LAGAB TIMES AL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆾",
+    "codepoint": "U+121BE",
+    "name": "CUNEIFORM SIGN LAGAB TIMES AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒆿",
+    "codepoint": "U+121BF",
+    "name": "CUNEIFORM SIGN LAGAB TIMES ASH ZIDA TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇀",
+    "codepoint": "U+121C0",
+    "name": "CUNEIFORM SIGN LAGAB TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇁",
+    "codepoint": "U+121C1",
+    "name": "CUNEIFORM SIGN LAGAB TIMES BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇂",
+    "codepoint": "U+121C2",
+    "name": "CUNEIFORM SIGN LAGAB TIMES DAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇃",
+    "codepoint": "U+121C3",
+    "name": "CUNEIFORM SIGN LAGAB TIMES EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇄",
+    "codepoint": "U+121C4",
+    "name": "CUNEIFORM SIGN LAGAB TIMES GA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇅",
+    "codepoint": "U+121C5",
+    "name": "CUNEIFORM SIGN LAGAB TIMES GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇆",
+    "codepoint": "U+121C6",
+    "name": "CUNEIFORM SIGN LAGAB TIMES GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇇",
+    "codepoint": "U+121C7",
+    "name": "CUNEIFORM SIGN LAGAB TIMES GUD PLUS GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇈",
+    "codepoint": "U+121C8",
+    "name": "CUNEIFORM SIGN LAGAB TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇉",
+    "codepoint": "U+121C9",
+    "name": "CUNEIFORM SIGN LAGAB TIMES HAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇊",
+    "codepoint": "U+121CA",
+    "name": "CUNEIFORM SIGN LAGAB TIMES HI TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇋",
+    "codepoint": "U+121CB",
+    "name": "CUNEIFORM SIGN LAGAB TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇌",
+    "codepoint": "U+121CC",
+    "name": "CUNEIFORM SIGN LAGAB TIMES IM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇍",
+    "codepoint": "U+121CD",
+    "name": "CUNEIFORM SIGN LAGAB TIMES IM PLUS HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇎",
+    "codepoint": "U+121CE",
+    "name": "CUNEIFORM SIGN LAGAB TIMES IM PLUS LU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇏",
+    "codepoint": "U+121CF",
+    "name": "CUNEIFORM SIGN LAGAB TIMES KI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇐",
+    "codepoint": "U+121D0",
+    "name": "CUNEIFORM SIGN LAGAB TIMES KIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇑",
+    "codepoint": "U+121D1",
+    "name": "CUNEIFORM SIGN LAGAB TIMES KU3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇒",
+    "codepoint": "U+121D2",
+    "name": "CUNEIFORM SIGN LAGAB TIMES KUL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇓",
+    "codepoint": "U+121D3",
+    "name": "CUNEIFORM SIGN LAGAB TIMES KUL PLUS HI PLUS A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇔",
+    "codepoint": "U+121D4",
+    "name": "CUNEIFORM SIGN LAGAB TIMES LAGAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇕",
+    "codepoint": "U+121D5",
+    "name": "CUNEIFORM SIGN LAGAB TIMES LISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇖",
+    "codepoint": "U+121D6",
+    "name": "CUNEIFORM SIGN LAGAB TIMES LU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇗",
+    "codepoint": "U+121D7",
+    "name": "CUNEIFORM SIGN LAGAB TIMES LUL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇘",
+    "codepoint": "U+121D8",
+    "name": "CUNEIFORM SIGN LAGAB TIMES ME",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇙",
+    "codepoint": "U+121D9",
+    "name": "CUNEIFORM SIGN LAGAB TIMES ME PLUS EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇚",
+    "codepoint": "U+121DA",
+    "name": "CUNEIFORM SIGN LAGAB TIMES MUSH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇛",
+    "codepoint": "U+121DB",
+    "name": "CUNEIFORM SIGN LAGAB TIMES NE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇜",
+    "codepoint": "U+121DC",
+    "name": "CUNEIFORM SIGN LAGAB TIMES SHE PLUS SUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇝",
+    "codepoint": "U+121DD",
+    "name": "CUNEIFORM SIGN LAGAB TIMES SHITA PLUS GISH PLUS ERIN2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇞",
+    "codepoint": "U+121DE",
+    "name": "CUNEIFORM SIGN LAGAB TIMES SHITA PLUS GISH TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇟",
+    "codepoint": "U+121DF",
+    "name": "CUNEIFORM SIGN LAGAB TIMES SHU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇠",
+    "codepoint": "U+121E0",
+    "name": "CUNEIFORM SIGN LAGAB TIMES SHU2 PLUS SHU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇡",
+    "codepoint": "U+121E1",
+    "name": "CUNEIFORM SIGN LAGAB TIMES SUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇢",
+    "codepoint": "U+121E2",
+    "name": "CUNEIFORM SIGN LAGAB TIMES TAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇣",
+    "codepoint": "U+121E3",
+    "name": "CUNEIFORM SIGN LAGAB TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇤",
+    "codepoint": "U+121E4",
+    "name": "CUNEIFORM SIGN LAGAB TIMES TE PLUS A PLUS SU PLUS NA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇥",
+    "codepoint": "U+121E5",
+    "name": "CUNEIFORM SIGN LAGAB TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇦",
+    "codepoint": "U+121E6",
+    "name": "CUNEIFORM SIGN LAGAB TIMES U PLUS A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇧",
+    "codepoint": "U+121E7",
+    "name": "CUNEIFORM SIGN LAGAB TIMES U PLUS U PLUS U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇨",
+    "codepoint": "U+121E8",
+    "name": "CUNEIFORM SIGN LAGAB TIMES U2 PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇩",
+    "codepoint": "U+121E9",
+    "name": "CUNEIFORM SIGN LAGAB TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇪",
+    "codepoint": "U+121EA",
+    "name": "CUNEIFORM SIGN LAGAB TIMES USH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇫",
+    "codepoint": "U+121EB",
+    "name": "CUNEIFORM SIGN LAGAB SQUARED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇬",
+    "codepoint": "U+121EC",
+    "name": "CUNEIFORM SIGN LAGAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇭",
+    "codepoint": "U+121ED",
+    "name": "CUNEIFORM SIGN LAGAR TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇮",
+    "codepoint": "U+121EE",
+    "name": "CUNEIFORM SIGN LAGAR TIMES SHE PLUS SUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇯",
+    "codepoint": "U+121EF",
+    "name": "CUNEIFORM SIGN LAGAR GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇰",
+    "codepoint": "U+121F0",
+    "name": "CUNEIFORM SIGN LAGAR GUNU OVER LAGAR GUNU SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇱",
+    "codepoint": "U+121F1",
+    "name": "CUNEIFORM SIGN LAHSHU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇲",
+    "codepoint": "U+121F2",
+    "name": "CUNEIFORM SIGN LAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇳",
+    "codepoint": "U+121F3",
+    "name": "CUNEIFORM SIGN LAL TIMES LAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇴",
+    "codepoint": "U+121F4",
+    "name": "CUNEIFORM SIGN LAM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇵",
+    "codepoint": "U+121F5",
+    "name": "CUNEIFORM SIGN LAM TIMES KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇶",
+    "codepoint": "U+121F6",
+    "name": "CUNEIFORM SIGN LAM TIMES KUR PLUS RU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇷",
+    "codepoint": "U+121F7",
+    "name": "CUNEIFORM SIGN LI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇸",
+    "codepoint": "U+121F8",
+    "name": "CUNEIFORM SIGN LIL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇹",
+    "codepoint": "U+121F9",
+    "name": "CUNEIFORM SIGN LIMMU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇺",
+    "codepoint": "U+121FA",
+    "name": "CUNEIFORM SIGN LISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇻",
+    "codepoint": "U+121FB",
+    "name": "CUNEIFORM SIGN LU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇼",
+    "codepoint": "U+121FC",
+    "name": "CUNEIFORM SIGN LU TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇽",
+    "codepoint": "U+121FD",
+    "name": "CUNEIFORM SIGN LU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇾",
+    "codepoint": "U+121FE",
+    "name": "CUNEIFORM SIGN LU2 TIMES AL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒇿",
+    "codepoint": "U+121FF",
+    "name": "CUNEIFORM SIGN LU2 TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈀",
+    "codepoint": "U+12200",
+    "name": "CUNEIFORM SIGN LU2 TIMES ESH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈁",
+    "codepoint": "U+12201",
+    "name": "CUNEIFORM SIGN LU2 TIMES ESH2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈂",
+    "codepoint": "U+12202",
+    "name": "CUNEIFORM SIGN LU2 TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈃",
+    "codepoint": "U+12203",
+    "name": "CUNEIFORM SIGN LU2 TIMES HI TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈄",
+    "codepoint": "U+12204",
+    "name": "CUNEIFORM SIGN LU2 TIMES IM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈅",
+    "codepoint": "U+12205",
+    "name": "CUNEIFORM SIGN LU2 TIMES KAD2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈆",
+    "codepoint": "U+12206",
+    "name": "CUNEIFORM SIGN LU2 TIMES KAD3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈇",
+    "codepoint": "U+12207",
+    "name": "CUNEIFORM SIGN LU2 TIMES KAD3 PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈈",
+    "codepoint": "U+12208",
+    "name": "CUNEIFORM SIGN LU2 TIMES KI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈉",
+    "codepoint": "U+12209",
+    "name": "CUNEIFORM SIGN LU2 TIMES LA PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈊",
+    "codepoint": "U+1220A",
+    "name": "CUNEIFORM SIGN LU2 TIMES LAGAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈋",
+    "codepoint": "U+1220B",
+    "name": "CUNEIFORM SIGN LU2 TIMES ME PLUS EN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈌",
+    "codepoint": "U+1220C",
+    "name": "CUNEIFORM SIGN LU2 TIMES NE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈍",
+    "codepoint": "U+1220D",
+    "name": "CUNEIFORM SIGN LU2 TIMES NU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈎",
+    "codepoint": "U+1220E",
+    "name": "CUNEIFORM SIGN LU2 TIMES SI PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈏",
+    "codepoint": "U+1220F",
+    "name": "CUNEIFORM SIGN LU2 TIMES SIK2 PLUS BU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈐",
+    "codepoint": "U+12210",
+    "name": "CUNEIFORM SIGN LU2 TIMES TUG2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈑",
+    "codepoint": "U+12211",
+    "name": "CUNEIFORM SIGN LU2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈒",
+    "codepoint": "U+12212",
+    "name": "CUNEIFORM SIGN LU2 CROSSING LU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈓",
+    "codepoint": "U+12213",
+    "name": "CUNEIFORM SIGN LU2 OPPOSING LU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈔",
+    "codepoint": "U+12214",
+    "name": "CUNEIFORM SIGN LU2 SQUARED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈕",
+    "codepoint": "U+12215",
+    "name": "CUNEIFORM SIGN LU2 SHESHIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈖",
+    "codepoint": "U+12216",
+    "name": "CUNEIFORM SIGN LU3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈗",
+    "codepoint": "U+12217",
+    "name": "CUNEIFORM SIGN LUGAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈘",
+    "codepoint": "U+12218",
+    "name": "CUNEIFORM SIGN LUGAL OVER LUGAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈙",
+    "codepoint": "U+12219",
+    "name": "CUNEIFORM SIGN LUGAL OPPOSING LUGAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈚",
+    "codepoint": "U+1221A",
+    "name": "CUNEIFORM SIGN LUGAL SHESHIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈛",
+    "codepoint": "U+1221B",
+    "name": "CUNEIFORM SIGN LUH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈜",
+    "codepoint": "U+1221C",
+    "name": "CUNEIFORM SIGN LUL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈝",
+    "codepoint": "U+1221D",
+    "name": "CUNEIFORM SIGN LUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈞",
+    "codepoint": "U+1221E",
+    "name": "CUNEIFORM SIGN LUM OVER LUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈟",
+    "codepoint": "U+1221F",
+    "name": "CUNEIFORM SIGN LUM OVER LUM GAR OVER GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈠",
+    "codepoint": "U+12220",
+    "name": "CUNEIFORM SIGN MA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈡",
+    "codepoint": "U+12221",
+    "name": "CUNEIFORM SIGN MA TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈢",
+    "codepoint": "U+12222",
+    "name": "CUNEIFORM SIGN MA GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈣",
+    "codepoint": "U+12223",
+    "name": "CUNEIFORM SIGN MA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈤",
+    "codepoint": "U+12224",
+    "name": "CUNEIFORM SIGN MAH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈥",
+    "codepoint": "U+12225",
+    "name": "CUNEIFORM SIGN MAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈦",
+    "codepoint": "U+12226",
+    "name": "CUNEIFORM SIGN MASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈧",
+    "codepoint": "U+12227",
+    "name": "CUNEIFORM SIGN MASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈨",
+    "codepoint": "U+12228",
+    "name": "CUNEIFORM SIGN ME",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈩",
+    "codepoint": "U+12229",
+    "name": "CUNEIFORM SIGN MES",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈪",
+    "codepoint": "U+1222A",
+    "name": "CUNEIFORM SIGN MI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈫",
+    "codepoint": "U+1222B",
+    "name": "CUNEIFORM SIGN MIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈬",
+    "codepoint": "U+1222C",
+    "name": "CUNEIFORM SIGN MU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈭",
+    "codepoint": "U+1222D",
+    "name": "CUNEIFORM SIGN MU OVER MU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈮",
+    "codepoint": "U+1222E",
+    "name": "CUNEIFORM SIGN MUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈯",
+    "codepoint": "U+1222F",
+    "name": "CUNEIFORM SIGN MUG GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈰",
+    "codepoint": "U+12230",
+    "name": "CUNEIFORM SIGN MUNSUB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈱",
+    "codepoint": "U+12231",
+    "name": "CUNEIFORM SIGN MURGU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈲",
+    "codepoint": "U+12232",
+    "name": "CUNEIFORM SIGN MUSH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈳",
+    "codepoint": "U+12233",
+    "name": "CUNEIFORM SIGN MUSH TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈴",
+    "codepoint": "U+12234",
+    "name": "CUNEIFORM SIGN MUSH TIMES KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈵",
+    "codepoint": "U+12235",
+    "name": "CUNEIFORM SIGN MUSH TIMES ZA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈶",
+    "codepoint": "U+12236",
+    "name": "CUNEIFORM SIGN MUSH OVER MUSH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈷",
+    "codepoint": "U+12237",
+    "name": "CUNEIFORM SIGN MUSH OVER MUSH TIMES A PLUS NA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈸",
+    "codepoint": "U+12238",
+    "name": "CUNEIFORM SIGN MUSH CROSSING MUSH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈹",
+    "codepoint": "U+12239",
+    "name": "CUNEIFORM SIGN MUSH3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈺",
+    "codepoint": "U+1223A",
+    "name": "CUNEIFORM SIGN MUSH3 TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈻",
+    "codepoint": "U+1223B",
+    "name": "CUNEIFORM SIGN MUSH3 TIMES A PLUS DI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈼",
+    "codepoint": "U+1223C",
+    "name": "CUNEIFORM SIGN MUSH3 TIMES DI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈽",
+    "codepoint": "U+1223D",
+    "name": "CUNEIFORM SIGN MUSH3 GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈾",
+    "codepoint": "U+1223E",
+    "name": "CUNEIFORM SIGN NA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒈿",
+    "codepoint": "U+1223F",
+    "name": "CUNEIFORM SIGN NA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉀",
+    "codepoint": "U+12240",
+    "name": "CUNEIFORM SIGN NAGA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉁",
+    "codepoint": "U+12241",
+    "name": "CUNEIFORM SIGN NAGA INVERTED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉂",
+    "codepoint": "U+12242",
+    "name": "CUNEIFORM SIGN NAGA TIMES SHU TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉃",
+    "codepoint": "U+12243",
+    "name": "CUNEIFORM SIGN NAGA OPPOSING NAGA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉄",
+    "codepoint": "U+12244",
+    "name": "CUNEIFORM SIGN NAGAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉅",
+    "codepoint": "U+12245",
+    "name": "CUNEIFORM SIGN NAM NUTILLU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉆",
+    "codepoint": "U+12246",
+    "name": "CUNEIFORM SIGN NAM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉇",
+    "codepoint": "U+12247",
+    "name": "CUNEIFORM SIGN NAM2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉈",
+    "codepoint": "U+12248",
+    "name": "CUNEIFORM SIGN NE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉉",
+    "codepoint": "U+12249",
+    "name": "CUNEIFORM SIGN NE TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉊",
+    "codepoint": "U+1224A",
+    "name": "CUNEIFORM SIGN NE TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉋",
+    "codepoint": "U+1224B",
+    "name": "CUNEIFORM SIGN NE SHESHIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉌",
+    "codepoint": "U+1224C",
+    "name": "CUNEIFORM SIGN NI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉍",
+    "codepoint": "U+1224D",
+    "name": "CUNEIFORM SIGN NI TIMES E",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉎",
+    "codepoint": "U+1224E",
+    "name": "CUNEIFORM SIGN NI2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉏",
+    "codepoint": "U+1224F",
+    "name": "CUNEIFORM SIGN NIM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉐",
+    "codepoint": "U+12250",
+    "name": "CUNEIFORM SIGN NIM TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉑",
+    "codepoint": "U+12251",
+    "name": "CUNEIFORM SIGN NIM TIMES GAR PLUS GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉒",
+    "codepoint": "U+12252",
+    "name": "CUNEIFORM SIGN NINDA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉓",
+    "codepoint": "U+12253",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉔",
+    "codepoint": "U+12254",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉕",
+    "codepoint": "U+12255",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES ASH PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉖",
+    "codepoint": "U+12256",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉗",
+    "codepoint": "U+12257",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES ME PLUS GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉘",
+    "codepoint": "U+12258",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES NE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉙",
+    "codepoint": "U+12259",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉚",
+    "codepoint": "U+1225A",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉛",
+    "codepoint": "U+1225B",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES SHE PLUS A AN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉜",
+    "codepoint": "U+1225C",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES SHE PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉝",
+    "codepoint": "U+1225D",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES SHE PLUS ASH PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉞",
+    "codepoint": "U+1225E",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES U2 PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉟",
+    "codepoint": "U+1225F",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES USH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉠",
+    "codepoint": "U+12260",
+    "name": "CUNEIFORM SIGN NISAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉡",
+    "codepoint": "U+12261",
+    "name": "CUNEIFORM SIGN NU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉢",
+    "codepoint": "U+12262",
+    "name": "CUNEIFORM SIGN NU11",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉣",
+    "codepoint": "U+12263",
+    "name": "CUNEIFORM SIGN NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉤",
+    "codepoint": "U+12264",
+    "name": "CUNEIFORM SIGN NUN LAGAR TIMES GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉥",
+    "codepoint": "U+12265",
+    "name": "CUNEIFORM SIGN NUN LAGAR TIMES MASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉦",
+    "codepoint": "U+12266",
+    "name": "CUNEIFORM SIGN NUN LAGAR TIMES SAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉧",
+    "codepoint": "U+12267",
+    "name": "CUNEIFORM SIGN NUN LAGAR TIMES SAL OVER NUN LAGAR TIMES SAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉨",
+    "codepoint": "U+12268",
+    "name": "CUNEIFORM SIGN NUN LAGAR TIMES USH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉩",
+    "codepoint": "U+12269",
+    "name": "CUNEIFORM SIGN NUN TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉪",
+    "codepoint": "U+1226A",
+    "name": "CUNEIFORM SIGN NUN OVER NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉫",
+    "codepoint": "U+1226B",
+    "name": "CUNEIFORM SIGN NUN CROSSING NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉬",
+    "codepoint": "U+1226C",
+    "name": "CUNEIFORM SIGN NUN CROSSING NUN LAGAR OVER LAGAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉭",
+    "codepoint": "U+1226D",
+    "name": "CUNEIFORM SIGN NUNUZ",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉮",
+    "codepoint": "U+1226E",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES ASHGAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉯",
+    "codepoint": "U+1226F",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉰",
+    "codepoint": "U+12270",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES DUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉱",
+    "codepoint": "U+12271",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉲",
+    "codepoint": "U+12272",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉳",
+    "codepoint": "U+12273",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES KAD3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉴",
+    "codepoint": "U+12274",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES LA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉵",
+    "codepoint": "U+12275",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES NE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉶",
+    "codepoint": "U+12276",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES SILA3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉷",
+    "codepoint": "U+12277",
+    "name": "CUNEIFORM SIGN NUNUZ AB2 TIMES U2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉸",
+    "codepoint": "U+12278",
+    "name": "CUNEIFORM SIGN NUNUZ KISIM5 TIMES BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉹",
+    "codepoint": "U+12279",
+    "name": "CUNEIFORM SIGN NUNUZ KISIM5 TIMES BI U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉺",
+    "codepoint": "U+1227A",
+    "name": "CUNEIFORM SIGN PA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉻",
+    "codepoint": "U+1227B",
+    "name": "CUNEIFORM SIGN PAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉼",
+    "codepoint": "U+1227C",
+    "name": "CUNEIFORM SIGN PAN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉽",
+    "codepoint": "U+1227D",
+    "name": "CUNEIFORM SIGN PAP",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉾",
+    "codepoint": "U+1227E",
+    "name": "CUNEIFORM SIGN PESH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒉿",
+    "codepoint": "U+1227F",
+    "name": "CUNEIFORM SIGN PI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊀",
+    "codepoint": "U+12280",
+    "name": "CUNEIFORM SIGN PI TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊁",
+    "codepoint": "U+12281",
+    "name": "CUNEIFORM SIGN PI TIMES AB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊂",
+    "codepoint": "U+12282",
+    "name": "CUNEIFORM SIGN PI TIMES BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊃",
+    "codepoint": "U+12283",
+    "name": "CUNEIFORM SIGN PI TIMES BU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊄",
+    "codepoint": "U+12284",
+    "name": "CUNEIFORM SIGN PI TIMES E",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊅",
+    "codepoint": "U+12285",
+    "name": "CUNEIFORM SIGN PI TIMES I",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊆",
+    "codepoint": "U+12286",
+    "name": "CUNEIFORM SIGN PI TIMES IB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊇",
+    "codepoint": "U+12287",
+    "name": "CUNEIFORM SIGN PI TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊈",
+    "codepoint": "U+12288",
+    "name": "CUNEIFORM SIGN PI TIMES U2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊉",
+    "codepoint": "U+12289",
+    "name": "CUNEIFORM SIGN PI CROSSING PI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊊",
+    "codepoint": "U+1228A",
+    "name": "CUNEIFORM SIGN PIRIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊋",
+    "codepoint": "U+1228B",
+    "name": "CUNEIFORM SIGN PIRIG TIMES KAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊌",
+    "codepoint": "U+1228C",
+    "name": "CUNEIFORM SIGN PIRIG TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊍",
+    "codepoint": "U+1228D",
+    "name": "CUNEIFORM SIGN PIRIG TIMES ZA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊎",
+    "codepoint": "U+1228E",
+    "name": "CUNEIFORM SIGN PIRIG OPPOSING PIRIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊏",
+    "codepoint": "U+1228F",
+    "name": "CUNEIFORM SIGN RA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊐",
+    "codepoint": "U+12290",
+    "name": "CUNEIFORM SIGN RAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊑",
+    "codepoint": "U+12291",
+    "name": "CUNEIFORM SIGN RI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊒",
+    "codepoint": "U+12292",
+    "name": "CUNEIFORM SIGN RU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊓",
+    "codepoint": "U+12293",
+    "name": "CUNEIFORM SIGN SA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊔",
+    "codepoint": "U+12294",
+    "name": "CUNEIFORM SIGN SAG NUTILLU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊕",
+    "codepoint": "U+12295",
+    "name": "CUNEIFORM SIGN SAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊖",
+    "codepoint": "U+12296",
+    "name": "CUNEIFORM SIGN SAG TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊗",
+    "codepoint": "U+12297",
+    "name": "CUNEIFORM SIGN SAG TIMES DU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊘",
+    "codepoint": "U+12298",
+    "name": "CUNEIFORM SIGN SAG TIMES DUB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊙",
+    "codepoint": "U+12299",
+    "name": "CUNEIFORM SIGN SAG TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊚",
+    "codepoint": "U+1229A",
+    "name": "CUNEIFORM SIGN SAG TIMES KAK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊛",
+    "codepoint": "U+1229B",
+    "name": "CUNEIFORM SIGN SAG TIMES KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊜",
+    "codepoint": "U+1229C",
+    "name": "CUNEIFORM SIGN SAG TIMES LUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊝",
+    "codepoint": "U+1229D",
+    "name": "CUNEIFORM SIGN SAG TIMES MI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊞",
+    "codepoint": "U+1229E",
+    "name": "CUNEIFORM SIGN SAG TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊟",
+    "codepoint": "U+1229F",
+    "name": "CUNEIFORM SIGN SAG TIMES SAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊠",
+    "codepoint": "U+122A0",
+    "name": "CUNEIFORM SIGN SAG TIMES SHID",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊡",
+    "codepoint": "U+122A1",
+    "name": "CUNEIFORM SIGN SAG TIMES TAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊢",
+    "codepoint": "U+122A2",
+    "name": "CUNEIFORM SIGN SAG TIMES U2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊣",
+    "codepoint": "U+122A3",
+    "name": "CUNEIFORM SIGN SAG TIMES UB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊤",
+    "codepoint": "U+122A4",
+    "name": "CUNEIFORM SIGN SAG TIMES UM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊥",
+    "codepoint": "U+122A5",
+    "name": "CUNEIFORM SIGN SAG TIMES UR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊦",
+    "codepoint": "U+122A6",
+    "name": "CUNEIFORM SIGN SAG TIMES USH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊧",
+    "codepoint": "U+122A7",
+    "name": "CUNEIFORM SIGN SAG OVER SAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊨",
+    "codepoint": "U+122A8",
+    "name": "CUNEIFORM SIGN SAG GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊩",
+    "codepoint": "U+122A9",
+    "name": "CUNEIFORM SIGN SAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊪",
+    "codepoint": "U+122AA",
+    "name": "CUNEIFORM SIGN SAL LAGAB TIMES ASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊫",
+    "codepoint": "U+122AB",
+    "name": "CUNEIFORM SIGN SANGA2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊬",
+    "codepoint": "U+122AC",
+    "name": "CUNEIFORM SIGN SAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊭",
+    "codepoint": "U+122AD",
+    "name": "CUNEIFORM SIGN SHA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊮",
+    "codepoint": "U+122AE",
+    "name": "CUNEIFORM SIGN SHA3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊯",
+    "codepoint": "U+122AF",
+    "name": "CUNEIFORM SIGN SHA3 TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊰",
+    "codepoint": "U+122B0",
+    "name": "CUNEIFORM SIGN SHA3 TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊱",
+    "codepoint": "U+122B1",
+    "name": "CUNEIFORM SIGN SHA3 TIMES GISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊲",
+    "codepoint": "U+122B2",
+    "name": "CUNEIFORM SIGN SHA3 TIMES NE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊳",
+    "codepoint": "U+122B3",
+    "name": "CUNEIFORM SIGN SHA3 TIMES SHU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊴",
+    "codepoint": "U+122B4",
+    "name": "CUNEIFORM SIGN SHA3 TIMES TUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊵",
+    "codepoint": "U+122B5",
+    "name": "CUNEIFORM SIGN SHA3 TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊶",
+    "codepoint": "U+122B6",
+    "name": "CUNEIFORM SIGN SHA3 TIMES U PLUS A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊷",
+    "codepoint": "U+122B7",
+    "name": "CUNEIFORM SIGN SHA6",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊸",
+    "codepoint": "U+122B8",
+    "name": "CUNEIFORM SIGN SHAB6",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊹",
+    "codepoint": "U+122B9",
+    "name": "CUNEIFORM SIGN SHAR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊺",
+    "codepoint": "U+122BA",
+    "name": "CUNEIFORM SIGN SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊻",
+    "codepoint": "U+122BB",
+    "name": "CUNEIFORM SIGN SHE HU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊼",
+    "codepoint": "U+122BC",
+    "name": "CUNEIFORM SIGN SHE OVER SHE GAD OVER GAD GAR OVER GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊽",
+    "codepoint": "U+122BD",
+    "name": "CUNEIFORM SIGN SHE OVER SHE TAB OVER TAB GAR OVER GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊾",
+    "codepoint": "U+122BE",
+    "name": "CUNEIFORM SIGN SHEG9",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒊿",
+    "codepoint": "U+122BF",
+    "name": "CUNEIFORM SIGN SHEN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋀",
+    "codepoint": "U+122C0",
+    "name": "CUNEIFORM SIGN SHESH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋁",
+    "codepoint": "U+122C1",
+    "name": "CUNEIFORM SIGN SHESH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋂",
+    "codepoint": "U+122C2",
+    "name": "CUNEIFORM SIGN SHESHLAM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋃",
+    "codepoint": "U+122C3",
+    "name": "CUNEIFORM SIGN SHID",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋄",
+    "codepoint": "U+122C4",
+    "name": "CUNEIFORM SIGN SHID TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋅",
+    "codepoint": "U+122C5",
+    "name": "CUNEIFORM SIGN SHID TIMES IM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋆",
+    "codepoint": "U+122C6",
+    "name": "CUNEIFORM SIGN SHIM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋇",
+    "codepoint": "U+122C7",
+    "name": "CUNEIFORM SIGN SHIM TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋈",
+    "codepoint": "U+122C8",
+    "name": "CUNEIFORM SIGN SHIM TIMES BAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋉",
+    "codepoint": "U+122C9",
+    "name": "CUNEIFORM SIGN SHIM TIMES BULUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋊",
+    "codepoint": "U+122CA",
+    "name": "CUNEIFORM SIGN SHIM TIMES DIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋋",
+    "codepoint": "U+122CB",
+    "name": "CUNEIFORM SIGN SHIM TIMES GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋌",
+    "codepoint": "U+122CC",
+    "name": "CUNEIFORM SIGN SHIM TIMES IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋍",
+    "codepoint": "U+122CD",
+    "name": "CUNEIFORM SIGN SHIM TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋎",
+    "codepoint": "U+122CE",
+    "name": "CUNEIFORM SIGN SHIM TIMES KUSHU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋏",
+    "codepoint": "U+122CF",
+    "name": "CUNEIFORM SIGN SHIM TIMES LUL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋐",
+    "codepoint": "U+122D0",
+    "name": "CUNEIFORM SIGN SHIM TIMES MUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋑",
+    "codepoint": "U+122D1",
+    "name": "CUNEIFORM SIGN SHIM TIMES SAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋒",
+    "codepoint": "U+122D2",
+    "name": "CUNEIFORM SIGN SHINIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋓",
+    "codepoint": "U+122D3",
+    "name": "CUNEIFORM SIGN SHIR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋔",
+    "codepoint": "U+122D4",
+    "name": "CUNEIFORM SIGN SHIR TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋕",
+    "codepoint": "U+122D5",
+    "name": "CUNEIFORM SIGN SHIR OVER SHIR BUR OVER BUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋖",
+    "codepoint": "U+122D6",
+    "name": "CUNEIFORM SIGN SHITA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋗",
+    "codepoint": "U+122D7",
+    "name": "CUNEIFORM SIGN SHU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋘",
+    "codepoint": "U+122D8",
+    "name": "CUNEIFORM SIGN SHU OVER INVERTED SHU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋙",
+    "codepoint": "U+122D9",
+    "name": "CUNEIFORM SIGN SHU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋚",
+    "codepoint": "U+122DA",
+    "name": "CUNEIFORM SIGN SHUBUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋛",
+    "codepoint": "U+122DB",
+    "name": "CUNEIFORM SIGN SI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋜",
+    "codepoint": "U+122DC",
+    "name": "CUNEIFORM SIGN SI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋝",
+    "codepoint": "U+122DD",
+    "name": "CUNEIFORM SIGN SIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋞",
+    "codepoint": "U+122DE",
+    "name": "CUNEIFORM SIGN SIG4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋟",
+    "codepoint": "U+122DF",
+    "name": "CUNEIFORM SIGN SIG4 OVER SIG4 SHU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋠",
+    "codepoint": "U+122E0",
+    "name": "CUNEIFORM SIGN SIK2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋡",
+    "codepoint": "U+122E1",
+    "name": "CUNEIFORM SIGN SILA3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋢",
+    "codepoint": "U+122E2",
+    "name": "CUNEIFORM SIGN SU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋣",
+    "codepoint": "U+122E3",
+    "name": "CUNEIFORM SIGN SU OVER SU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋤",
+    "codepoint": "U+122E4",
+    "name": "CUNEIFORM SIGN SUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋥",
+    "codepoint": "U+122E5",
+    "name": "CUNEIFORM SIGN SUD2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋦",
+    "codepoint": "U+122E6",
+    "name": "CUNEIFORM SIGN SUHUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋧",
+    "codepoint": "U+122E7",
+    "name": "CUNEIFORM SIGN SUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋨",
+    "codepoint": "U+122E8",
+    "name": "CUNEIFORM SIGN SUMASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋩",
+    "codepoint": "U+122E9",
+    "name": "CUNEIFORM SIGN SUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋪",
+    "codepoint": "U+122EA",
+    "name": "CUNEIFORM SIGN SUR9",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋫",
+    "codepoint": "U+122EB",
+    "name": "CUNEIFORM SIGN TA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋬",
+    "codepoint": "U+122EC",
+    "name": "CUNEIFORM SIGN TA ASTERISK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋭",
+    "codepoint": "U+122ED",
+    "name": "CUNEIFORM SIGN TA TIMES HI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋮",
+    "codepoint": "U+122EE",
+    "name": "CUNEIFORM SIGN TA TIMES MI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋯",
+    "codepoint": "U+122EF",
+    "name": "CUNEIFORM SIGN TA GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋰",
+    "codepoint": "U+122F0",
+    "name": "CUNEIFORM SIGN TAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋱",
+    "codepoint": "U+122F1",
+    "name": "CUNEIFORM SIGN TAB OVER TAB NI OVER NI DISH OVER DISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋲",
+    "codepoint": "U+122F2",
+    "name": "CUNEIFORM SIGN TAB SQUARED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋳",
+    "codepoint": "U+122F3",
+    "name": "CUNEIFORM SIGN TAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋴",
+    "codepoint": "U+122F4",
+    "name": "CUNEIFORM SIGN TAG TIMES BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋵",
+    "codepoint": "U+122F5",
+    "name": "CUNEIFORM SIGN TAG TIMES GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋶",
+    "codepoint": "U+122F6",
+    "name": "CUNEIFORM SIGN TAG TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋷",
+    "codepoint": "U+122F7",
+    "name": "CUNEIFORM SIGN TAG TIMES SHU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋸",
+    "codepoint": "U+122F8",
+    "name": "CUNEIFORM SIGN TAG TIMES TUG2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋹",
+    "codepoint": "U+122F9",
+    "name": "CUNEIFORM SIGN TAG TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋺",
+    "codepoint": "U+122FA",
+    "name": "CUNEIFORM SIGN TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋻",
+    "codepoint": "U+122FB",
+    "name": "CUNEIFORM SIGN TAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋼",
+    "codepoint": "U+122FC",
+    "name": "CUNEIFORM SIGN TE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋽",
+    "codepoint": "U+122FD",
+    "name": "CUNEIFORM SIGN TE GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋾",
+    "codepoint": "U+122FE",
+    "name": "CUNEIFORM SIGN TI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒋿",
+    "codepoint": "U+122FF",
+    "name": "CUNEIFORM SIGN TI TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌀",
+    "codepoint": "U+12300",
+    "name": "CUNEIFORM SIGN TIL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌁",
+    "codepoint": "U+12301",
+    "name": "CUNEIFORM SIGN TIR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌂",
+    "codepoint": "U+12302",
+    "name": "CUNEIFORM SIGN TIR TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌃",
+    "codepoint": "U+12303",
+    "name": "CUNEIFORM SIGN TIR OVER TIR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌄",
+    "codepoint": "U+12304",
+    "name": "CUNEIFORM SIGN TIR OVER TIR GAD OVER GAD GAR OVER GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌅",
+    "codepoint": "U+12305",
+    "name": "CUNEIFORM SIGN TU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌆",
+    "codepoint": "U+12306",
+    "name": "CUNEIFORM SIGN TUG2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌇",
+    "codepoint": "U+12307",
+    "name": "CUNEIFORM SIGN TUK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌈",
+    "codepoint": "U+12308",
+    "name": "CUNEIFORM SIGN TUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌉",
+    "codepoint": "U+12309",
+    "name": "CUNEIFORM SIGN TUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌊",
+    "codepoint": "U+1230A",
+    "name": "CUNEIFORM SIGN TUR OVER TUR ZA OVER ZA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌋",
+    "codepoint": "U+1230B",
+    "name": "CUNEIFORM SIGN U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌌",
+    "codepoint": "U+1230C",
+    "name": "CUNEIFORM SIGN U GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌍",
+    "codepoint": "U+1230D",
+    "name": "CUNEIFORM SIGN U U U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌎",
+    "codepoint": "U+1230E",
+    "name": "CUNEIFORM SIGN U OVER U PA OVER PA GAR OVER GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌏",
+    "codepoint": "U+1230F",
+    "name": "CUNEIFORM SIGN U OVER U SUR OVER SUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌐",
+    "codepoint": "U+12310",
+    "name": "CUNEIFORM SIGN U OVER U U REVERSED OVER U REVERSED",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌑",
+    "codepoint": "U+12311",
+    "name": "CUNEIFORM SIGN U2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌒",
+    "codepoint": "U+12312",
+    "name": "CUNEIFORM SIGN UB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌓",
+    "codepoint": "U+12313",
+    "name": "CUNEIFORM SIGN UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌔",
+    "codepoint": "U+12314",
+    "name": "CUNEIFORM SIGN UD KUSHU2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌕",
+    "codepoint": "U+12315",
+    "name": "CUNEIFORM SIGN UD TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌖",
+    "codepoint": "U+12316",
+    "name": "CUNEIFORM SIGN UD TIMES MI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌗",
+    "codepoint": "U+12317",
+    "name": "CUNEIFORM SIGN UD TIMES U PLUS U PLUS U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌘",
+    "codepoint": "U+12318",
+    "name": "CUNEIFORM SIGN UD TIMES U PLUS U PLUS U GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌙",
+    "codepoint": "U+12319",
+    "name": "CUNEIFORM SIGN UD GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌚",
+    "codepoint": "U+1231A",
+    "name": "CUNEIFORM SIGN UD SHESHIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌛",
+    "codepoint": "U+1231B",
+    "name": "CUNEIFORM SIGN UD SHESHIG TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌜",
+    "codepoint": "U+1231C",
+    "name": "CUNEIFORM SIGN UDUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌝",
+    "codepoint": "U+1231D",
+    "name": "CUNEIFORM SIGN UM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌞",
+    "codepoint": "U+1231E",
+    "name": "CUNEIFORM SIGN UM TIMES LAGAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌟",
+    "codepoint": "U+1231F",
+    "name": "CUNEIFORM SIGN UM TIMES ME PLUS DA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌠",
+    "codepoint": "U+12320",
+    "name": "CUNEIFORM SIGN UM TIMES SHA3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌡",
+    "codepoint": "U+12321",
+    "name": "CUNEIFORM SIGN UM TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌢",
+    "codepoint": "U+12322",
+    "name": "CUNEIFORM SIGN UMBIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌣",
+    "codepoint": "U+12323",
+    "name": "CUNEIFORM SIGN UMUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌤",
+    "codepoint": "U+12324",
+    "name": "CUNEIFORM SIGN UMUM TIMES KASKAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌥",
+    "codepoint": "U+12325",
+    "name": "CUNEIFORM SIGN UMUM TIMES PA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌦",
+    "codepoint": "U+12326",
+    "name": "CUNEIFORM SIGN UN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌧",
+    "codepoint": "U+12327",
+    "name": "CUNEIFORM SIGN UN GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌨",
+    "codepoint": "U+12328",
+    "name": "CUNEIFORM SIGN UR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌩",
+    "codepoint": "U+12329",
+    "name": "CUNEIFORM SIGN UR CROSSING UR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌪",
+    "codepoint": "U+1232A",
+    "name": "CUNEIFORM SIGN UR SHESHIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌫",
+    "codepoint": "U+1232B",
+    "name": "CUNEIFORM SIGN UR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌬",
+    "codepoint": "U+1232C",
+    "name": "CUNEIFORM SIGN UR2 TIMES A PLUS HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌭",
+    "codepoint": "U+1232D",
+    "name": "CUNEIFORM SIGN UR2 TIMES A PLUS NA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌮",
+    "codepoint": "U+1232E",
+    "name": "CUNEIFORM SIGN UR2 TIMES AL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌯",
+    "codepoint": "U+1232F",
+    "name": "CUNEIFORM SIGN UR2 TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌰",
+    "codepoint": "U+12330",
+    "name": "CUNEIFORM SIGN UR2 TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌱",
+    "codepoint": "U+12331",
+    "name": "CUNEIFORM SIGN UR2 TIMES U2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌲",
+    "codepoint": "U+12332",
+    "name": "CUNEIFORM SIGN UR2 TIMES U2 PLUS ASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌳",
+    "codepoint": "U+12333",
+    "name": "CUNEIFORM SIGN UR2 TIMES U2 PLUS BI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌴",
+    "codepoint": "U+12334",
+    "name": "CUNEIFORM SIGN UR4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌵",
+    "codepoint": "U+12335",
+    "name": "CUNEIFORM SIGN URI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌶",
+    "codepoint": "U+12336",
+    "name": "CUNEIFORM SIGN URI3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌷",
+    "codepoint": "U+12337",
+    "name": "CUNEIFORM SIGN URU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌸",
+    "codepoint": "U+12338",
+    "name": "CUNEIFORM SIGN URU TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌹",
+    "codepoint": "U+12339",
+    "name": "CUNEIFORM SIGN URU TIMES ASHGAB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌺",
+    "codepoint": "U+1233A",
+    "name": "CUNEIFORM SIGN URU TIMES BAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌻",
+    "codepoint": "U+1233B",
+    "name": "CUNEIFORM SIGN URU TIMES DUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌼",
+    "codepoint": "U+1233C",
+    "name": "CUNEIFORM SIGN URU TIMES GA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌽",
+    "codepoint": "U+1233D",
+    "name": "CUNEIFORM SIGN URU TIMES GAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌾",
+    "codepoint": "U+1233E",
+    "name": "CUNEIFORM SIGN URU TIMES GAN2 TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒌿",
+    "codepoint": "U+1233F",
+    "name": "CUNEIFORM SIGN URU TIMES GAR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍀",
+    "codepoint": "U+12340",
+    "name": "CUNEIFORM SIGN URU TIMES GU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍁",
+    "codepoint": "U+12341",
+    "name": "CUNEIFORM SIGN URU TIMES HA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍂",
+    "codepoint": "U+12342",
+    "name": "CUNEIFORM SIGN URU TIMES IGI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍃",
+    "codepoint": "U+12343",
+    "name": "CUNEIFORM SIGN URU TIMES IM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍄",
+    "codepoint": "U+12344",
+    "name": "CUNEIFORM SIGN URU TIMES ISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍅",
+    "codepoint": "U+12345",
+    "name": "CUNEIFORM SIGN URU TIMES KI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍆",
+    "codepoint": "U+12346",
+    "name": "CUNEIFORM SIGN URU TIMES LUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍇",
+    "codepoint": "U+12347",
+    "name": "CUNEIFORM SIGN URU TIMES MIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍈",
+    "codepoint": "U+12348",
+    "name": "CUNEIFORM SIGN URU TIMES PA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍉",
+    "codepoint": "U+12349",
+    "name": "CUNEIFORM SIGN URU TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍊",
+    "codepoint": "U+1234A",
+    "name": "CUNEIFORM SIGN URU TIMES SIG4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍋",
+    "codepoint": "U+1234B",
+    "name": "CUNEIFORM SIGN URU TIMES TU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍌",
+    "codepoint": "U+1234C",
+    "name": "CUNEIFORM SIGN URU TIMES U PLUS GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍍",
+    "codepoint": "U+1234D",
+    "name": "CUNEIFORM SIGN URU TIMES UD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍎",
+    "codepoint": "U+1234E",
+    "name": "CUNEIFORM SIGN URU TIMES URUDA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍏",
+    "codepoint": "U+1234F",
+    "name": "CUNEIFORM SIGN URUDA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍐",
+    "codepoint": "U+12350",
+    "name": "CUNEIFORM SIGN URUDA TIMES U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍑",
+    "codepoint": "U+12351",
+    "name": "CUNEIFORM SIGN USH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍒",
+    "codepoint": "U+12352",
+    "name": "CUNEIFORM SIGN USH TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍓",
+    "codepoint": "U+12353",
+    "name": "CUNEIFORM SIGN USH TIMES KU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍔",
+    "codepoint": "U+12354",
+    "name": "CUNEIFORM SIGN USH TIMES KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍕",
+    "codepoint": "U+12355",
+    "name": "CUNEIFORM SIGN USH TIMES TAK4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍖",
+    "codepoint": "U+12356",
+    "name": "CUNEIFORM SIGN USHX",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍗",
+    "codepoint": "U+12357",
+    "name": "CUNEIFORM SIGN USH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍘",
+    "codepoint": "U+12358",
+    "name": "CUNEIFORM SIGN USHUMX",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍙",
+    "codepoint": "U+12359",
+    "name": "CUNEIFORM SIGN UTUKI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍚",
+    "codepoint": "U+1235A",
+    "name": "CUNEIFORM SIGN UZ3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍛",
+    "codepoint": "U+1235B",
+    "name": "CUNEIFORM SIGN UZ3 TIMES KASKAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍜",
+    "codepoint": "U+1235C",
+    "name": "CUNEIFORM SIGN UZU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍝",
+    "codepoint": "U+1235D",
+    "name": "CUNEIFORM SIGN ZA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍞",
+    "codepoint": "U+1235E",
+    "name": "CUNEIFORM SIGN ZA TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍟",
+    "codepoint": "U+1235F",
+    "name": "CUNEIFORM SIGN ZA SQUARED TIMES KUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍠",
+    "codepoint": "U+12360",
+    "name": "CUNEIFORM SIGN ZAG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍡",
+    "codepoint": "U+12361",
+    "name": "CUNEIFORM SIGN ZAMX",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍢",
+    "codepoint": "U+12362",
+    "name": "CUNEIFORM SIGN ZE2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍣",
+    "codepoint": "U+12363",
+    "name": "CUNEIFORM SIGN ZI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍤",
+    "codepoint": "U+12364",
+    "name": "CUNEIFORM SIGN ZI OVER ZI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍥",
+    "codepoint": "U+12365",
+    "name": "CUNEIFORM SIGN ZI3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍦",
+    "codepoint": "U+12366",
+    "name": "CUNEIFORM SIGN ZIB",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍧",
+    "codepoint": "U+12367",
+    "name": "CUNEIFORM SIGN ZIB KABA TENU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍨",
+    "codepoint": "U+12368",
+    "name": "CUNEIFORM SIGN ZIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍩",
+    "codepoint": "U+12369",
+    "name": "CUNEIFORM SIGN ZIZ2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍪",
+    "codepoint": "U+1236A",
+    "name": "CUNEIFORM SIGN ZU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍫",
+    "codepoint": "U+1236B",
+    "name": "CUNEIFORM SIGN ZU5",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍬",
+    "codepoint": "U+1236C",
+    "name": "CUNEIFORM SIGN ZU5 TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍭",
+    "codepoint": "U+1236D",
+    "name": "CUNEIFORM SIGN ZUBUR",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍮",
+    "codepoint": "U+1236E",
+    "name": "CUNEIFORM SIGN ZUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍯",
+    "codepoint": "U+1236F",
+    "name": "CUNEIFORM SIGN KAP ELAMITE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍰",
+    "codepoint": "U+12370",
+    "name": "CUNEIFORM SIGN AB TIMES NUN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍱",
+    "codepoint": "U+12371",
+    "name": "CUNEIFORM SIGN AB2 TIMES A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍲",
+    "codepoint": "U+12372",
+    "name": "CUNEIFORM SIGN AMAR TIMES KUG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍳",
+    "codepoint": "U+12373",
+    "name": "CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS MASH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍴",
+    "codepoint": "U+12374",
+    "name": "CUNEIFORM SIGN DAG3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍵",
+    "codepoint": "U+12375",
+    "name": "CUNEIFORM SIGN DISH PLUS SHU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍶",
+    "codepoint": "U+12376",
+    "name": "CUNEIFORM SIGN DUB TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍷",
+    "codepoint": "U+12377",
+    "name": "CUNEIFORM SIGN EZEN TIMES GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍸",
+    "codepoint": "U+12378",
+    "name": "CUNEIFORM SIGN EZEN TIMES SHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍹",
+    "codepoint": "U+12379",
+    "name": "CUNEIFORM SIGN GA2 TIMES AN PLUS KAK PLUS A",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍺",
+    "codepoint": "U+1237A",
+    "name": "CUNEIFORM SIGN GA2 TIMES ASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍻",
+    "codepoint": "U+1237B",
+    "name": "CUNEIFORM SIGN GE22",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍼",
+    "codepoint": "U+1237C",
+    "name": "CUNEIFORM SIGN GIG",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍽",
+    "codepoint": "U+1237D",
+    "name": "CUNEIFORM SIGN HUSH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍾",
+    "codepoint": "U+1237E",
+    "name": "CUNEIFORM SIGN KA TIMES ANSHE",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒍿",
+    "codepoint": "U+1237F",
+    "name": "CUNEIFORM SIGN KA TIMES ASH3",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎀",
+    "codepoint": "U+12380",
+    "name": "CUNEIFORM SIGN KA TIMES GISH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎁",
+    "codepoint": "U+12381",
+    "name": "CUNEIFORM SIGN KA TIMES GUD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎂",
+    "codepoint": "U+12382",
+    "name": "CUNEIFORM SIGN KA TIMES HI TIMES ASH2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎃",
+    "codepoint": "U+12383",
+    "name": "CUNEIFORM SIGN KA TIMES LUM",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎄",
+    "codepoint": "U+12384",
+    "name": "CUNEIFORM SIGN KA TIMES PA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎅",
+    "codepoint": "U+12385",
+    "name": "CUNEIFORM SIGN KA TIMES SHUL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎆",
+    "codepoint": "U+12386",
+    "name": "CUNEIFORM SIGN KA TIMES TU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎇",
+    "codepoint": "U+12387",
+    "name": "CUNEIFORM SIGN KA TIMES UR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎈",
+    "codepoint": "U+12388",
+    "name": "CUNEIFORM SIGN LAGAB TIMES GI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎉",
+    "codepoint": "U+12389",
+    "name": "CUNEIFORM SIGN LU2 SHESHIG TIMES BAD",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎊",
+    "codepoint": "U+1238A",
+    "name": "CUNEIFORM SIGN LU2 TIMES ESH2 PLUS LAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎋",
+    "codepoint": "U+1238B",
+    "name": "CUNEIFORM SIGN LU2 TIMES SHU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎌",
+    "codepoint": "U+1238C",
+    "name": "CUNEIFORM SIGN MESH",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎍",
+    "codepoint": "U+1238D",
+    "name": "CUNEIFORM SIGN MUSH3 TIMES ZA",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎎",
+    "codepoint": "U+1238E",
+    "name": "CUNEIFORM SIGN NA4",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎏",
+    "codepoint": "U+1238F",
+    "name": "CUNEIFORM SIGN NIN",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎐",
+    "codepoint": "U+12390",
+    "name": "CUNEIFORM SIGN NIN9",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎑",
+    "codepoint": "U+12391",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES BAL",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎒",
+    "codepoint": "U+12392",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES GI",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎓",
+    "codepoint": "U+12393",
+    "name": "CUNEIFORM SIGN NU11 ROTATED NINETY DEGREES",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎔",
+    "codepoint": "U+12394",
+    "name": "CUNEIFORM SIGN PESH2 ASTERISK",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎕",
+    "codepoint": "U+12395",
+    "name": "CUNEIFORM SIGN PIR2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎖",
+    "codepoint": "U+12396",
+    "name": "CUNEIFORM SIGN SAG TIMES IGI GUNU",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎗",
+    "codepoint": "U+12397",
+    "name": "CUNEIFORM SIGN TI2",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎘",
+    "codepoint": "U+12398",
+    "name": "CUNEIFORM SIGN UM TIMES ME",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒎙",
+    "codepoint": "U+12399",
+    "name": "CUNEIFORM SIGN U U",
+    "block": "Cuneiform"
+  },
+  {
+    "char": "𒐀",
+    "codepoint": "U+12400",
+    "name": "CUNEIFORM NUMERIC SIGN TWO ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐁",
+    "codepoint": "U+12401",
+    "name": "CUNEIFORM NUMERIC SIGN THREE ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐂",
+    "codepoint": "U+12402",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐃",
+    "codepoint": "U+12403",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐄",
+    "codepoint": "U+12404",
+    "name": "CUNEIFORM NUMERIC SIGN SIX ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐅",
+    "codepoint": "U+12405",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐆",
+    "codepoint": "U+12406",
+    "name": "CUNEIFORM NUMERIC SIGN EIGHT ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐇",
+    "codepoint": "U+12407",
+    "name": "CUNEIFORM NUMERIC SIGN NINE ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐈",
+    "codepoint": "U+12408",
+    "name": "CUNEIFORM NUMERIC SIGN THREE DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐉",
+    "codepoint": "U+12409",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐊",
+    "codepoint": "U+1240A",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐋",
+    "codepoint": "U+1240B",
+    "name": "CUNEIFORM NUMERIC SIGN SIX DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐌",
+    "codepoint": "U+1240C",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐍",
+    "codepoint": "U+1240D",
+    "name": "CUNEIFORM NUMERIC SIGN EIGHT DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐎",
+    "codepoint": "U+1240E",
+    "name": "CUNEIFORM NUMERIC SIGN NINE DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐏",
+    "codepoint": "U+1240F",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR U",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐐",
+    "codepoint": "U+12410",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE U",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐑",
+    "codepoint": "U+12411",
+    "name": "CUNEIFORM NUMERIC SIGN SIX U",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐒",
+    "codepoint": "U+12412",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN U",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐓",
+    "codepoint": "U+12413",
+    "name": "CUNEIFORM NUMERIC SIGN EIGHT U",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐔",
+    "codepoint": "U+12414",
+    "name": "CUNEIFORM NUMERIC SIGN NINE U",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐕",
+    "codepoint": "U+12415",
+    "name": "CUNEIFORM NUMERIC SIGN ONE GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐖",
+    "codepoint": "U+12416",
+    "name": "CUNEIFORM NUMERIC SIGN TWO GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐗",
+    "codepoint": "U+12417",
+    "name": "CUNEIFORM NUMERIC SIGN THREE GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐘",
+    "codepoint": "U+12418",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐙",
+    "codepoint": "U+12419",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐚",
+    "codepoint": "U+1241A",
+    "name": "CUNEIFORM NUMERIC SIGN SIX GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐛",
+    "codepoint": "U+1241B",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐜",
+    "codepoint": "U+1241C",
+    "name": "CUNEIFORM NUMERIC SIGN EIGHT GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐝",
+    "codepoint": "U+1241D",
+    "name": "CUNEIFORM NUMERIC SIGN NINE GESH2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐞",
+    "codepoint": "U+1241E",
+    "name": "CUNEIFORM NUMERIC SIGN ONE GESHU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐟",
+    "codepoint": "U+1241F",
+    "name": "CUNEIFORM NUMERIC SIGN TWO GESHU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐠",
+    "codepoint": "U+12420",
+    "name": "CUNEIFORM NUMERIC SIGN THREE GESHU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐡",
+    "codepoint": "U+12421",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR GESHU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐢",
+    "codepoint": "U+12422",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE GESHU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐣",
+    "codepoint": "U+12423",
+    "name": "CUNEIFORM NUMERIC SIGN TWO SHAR2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐤",
+    "codepoint": "U+12424",
+    "name": "CUNEIFORM NUMERIC SIGN THREE SHAR2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐥",
+    "codepoint": "U+12425",
+    "name": "CUNEIFORM NUMERIC SIGN THREE SHAR2 VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐦",
+    "codepoint": "U+12426",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR SHAR2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐧",
+    "codepoint": "U+12427",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE SHAR2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐨",
+    "codepoint": "U+12428",
+    "name": "CUNEIFORM NUMERIC SIGN SIX SHAR2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐩",
+    "codepoint": "U+12429",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN SHAR2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐪",
+    "codepoint": "U+1242A",
+    "name": "CUNEIFORM NUMERIC SIGN EIGHT SHAR2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐫",
+    "codepoint": "U+1242B",
+    "name": "CUNEIFORM NUMERIC SIGN NINE SHAR2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐬",
+    "codepoint": "U+1242C",
+    "name": "CUNEIFORM NUMERIC SIGN ONE SHARU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐭",
+    "codepoint": "U+1242D",
+    "name": "CUNEIFORM NUMERIC SIGN TWO SHARU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐮",
+    "codepoint": "U+1242E",
+    "name": "CUNEIFORM NUMERIC SIGN THREE SHARU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐯",
+    "codepoint": "U+1242F",
+    "name": "CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐰",
+    "codepoint": "U+12430",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR SHARU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐱",
+    "codepoint": "U+12431",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE SHARU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐲",
+    "codepoint": "U+12432",
+    "name": "CUNEIFORM NUMERIC SIGN SHAR2 TIMES GAL PLUS DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐳",
+    "codepoint": "U+12433",
+    "name": "CUNEIFORM NUMERIC SIGN SHAR2 TIMES GAL PLUS MIN",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐴",
+    "codepoint": "U+12434",
+    "name": "CUNEIFORM NUMERIC SIGN ONE BURU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐵",
+    "codepoint": "U+12435",
+    "name": "CUNEIFORM NUMERIC SIGN TWO BURU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐶",
+    "codepoint": "U+12436",
+    "name": "CUNEIFORM NUMERIC SIGN THREE BURU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐷",
+    "codepoint": "U+12437",
+    "name": "CUNEIFORM NUMERIC SIGN THREE BURU VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐸",
+    "codepoint": "U+12438",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR BURU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐹",
+    "codepoint": "U+12439",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE BURU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐺",
+    "codepoint": "U+1243A",
+    "name": "CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH16",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐻",
+    "codepoint": "U+1243B",
+    "name": "CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH21",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐼",
+    "codepoint": "U+1243C",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐽",
+    "codepoint": "U+1243D",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU4",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐾",
+    "codepoint": "U+1243E",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU A",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒐿",
+    "codepoint": "U+1243F",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU B",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑀",
+    "codepoint": "U+12440",
+    "name": "CUNEIFORM NUMERIC SIGN SIX VARIANT FORM ASH9",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑁",
+    "codepoint": "U+12441",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN3",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑂",
+    "codepoint": "U+12442",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN A",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑃",
+    "codepoint": "U+12443",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN B",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑄",
+    "codepoint": "U+12444",
+    "name": "CUNEIFORM NUMERIC SIGN EIGHT VARIANT FORM USSU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑅",
+    "codepoint": "U+12445",
+    "name": "CUNEIFORM NUMERIC SIGN EIGHT VARIANT FORM USSU3",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑆",
+    "codepoint": "U+12446",
+    "name": "CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑇",
+    "codepoint": "U+12447",
+    "name": "CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU3",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑈",
+    "codepoint": "U+12448",
+    "name": "CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU4",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑉",
+    "codepoint": "U+12449",
+    "name": "CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU A",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑊",
+    "codepoint": "U+1244A",
+    "name": "CUNEIFORM NUMERIC SIGN TWO ASH TENU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑋",
+    "codepoint": "U+1244B",
+    "name": "CUNEIFORM NUMERIC SIGN THREE ASH TENU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑌",
+    "codepoint": "U+1244C",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR ASH TENU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑍",
+    "codepoint": "U+1244D",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE ASH TENU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑎",
+    "codepoint": "U+1244E",
+    "name": "CUNEIFORM NUMERIC SIGN SIX ASH TENU",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑏",
+    "codepoint": "U+1244F",
+    "name": "CUNEIFORM NUMERIC SIGN ONE BAN2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑐",
+    "codepoint": "U+12450",
+    "name": "CUNEIFORM NUMERIC SIGN TWO BAN2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑑",
+    "codepoint": "U+12451",
+    "name": "CUNEIFORM NUMERIC SIGN THREE BAN2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑒",
+    "codepoint": "U+12452",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR BAN2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑓",
+    "codepoint": "U+12453",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR BAN2 VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑔",
+    "codepoint": "U+12454",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE BAN2",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑕",
+    "codepoint": "U+12455",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE BAN2 VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑖",
+    "codepoint": "U+12456",
+    "name": "CUNEIFORM NUMERIC SIGN NIGIDAMIN",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑗",
+    "codepoint": "U+12457",
+    "name": "CUNEIFORM NUMERIC SIGN NIGIDAESH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑘",
+    "codepoint": "U+12458",
+    "name": "CUNEIFORM NUMERIC SIGN ONE ESHE3",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑙",
+    "codepoint": "U+12459",
+    "name": "CUNEIFORM NUMERIC SIGN TWO ESHE3",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑚",
+    "codepoint": "U+1245A",
+    "name": "CUNEIFORM NUMERIC SIGN ONE THIRD DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑛",
+    "codepoint": "U+1245B",
+    "name": "CUNEIFORM NUMERIC SIGN TWO THIRDS DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑜",
+    "codepoint": "U+1245C",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE SIXTHS DISH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑝",
+    "codepoint": "U+1245D",
+    "name": "CUNEIFORM NUMERIC SIGN ONE THIRD VARIANT FORM A",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑞",
+    "codepoint": "U+1245E",
+    "name": "CUNEIFORM NUMERIC SIGN TWO THIRDS VARIANT FORM A",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑟",
+    "codepoint": "U+1245F",
+    "name": "CUNEIFORM NUMERIC SIGN ONE EIGHTH ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑠",
+    "codepoint": "U+12460",
+    "name": "CUNEIFORM NUMERIC SIGN ONE QUARTER ASH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑡",
+    "codepoint": "U+12461",
+    "name": "CUNEIFORM NUMERIC SIGN OLD ASSYRIAN ONE SIXTH",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑢",
+    "codepoint": "U+12462",
+    "name": "CUNEIFORM NUMERIC SIGN OLD ASSYRIAN ONE QUARTER",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑣",
+    "codepoint": "U+12463",
+    "name": "CUNEIFORM NUMERIC SIGN ONE QUARTER GUR",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑤",
+    "codepoint": "U+12464",
+    "name": "CUNEIFORM NUMERIC SIGN ONE HALF GUR",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑥",
+    "codepoint": "U+12465",
+    "name": "CUNEIFORM NUMERIC SIGN ELAMITE ONE THIRD",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑦",
+    "codepoint": "U+12466",
+    "name": "CUNEIFORM NUMERIC SIGN ELAMITE TWO THIRDS",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑧",
+    "codepoint": "U+12467",
+    "name": "CUNEIFORM NUMERIC SIGN ELAMITE FORTY",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑨",
+    "codepoint": "U+12468",
+    "name": "CUNEIFORM NUMERIC SIGN ELAMITE FIFTY",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑩",
+    "codepoint": "U+12469",
+    "name": "CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑪",
+    "codepoint": "U+1246A",
+    "name": "CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑫",
+    "codepoint": "U+1246B",
+    "name": "CUNEIFORM NUMERIC SIGN SIX U VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑬",
+    "codepoint": "U+1246C",
+    "name": "CUNEIFORM NUMERIC SIGN SEVEN U VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑭",
+    "codepoint": "U+1246D",
+    "name": "CUNEIFORM NUMERIC SIGN EIGHT U VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑮",
+    "codepoint": "U+1246E",
+    "name": "CUNEIFORM NUMERIC SIGN NINE U VARIANT FORM",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑰",
+    "codepoint": "U+12470",
+    "name": "CUNEIFORM PUNCTUATION SIGN OLD ASSYRIAN WORD DIVIDER",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑱",
+    "codepoint": "U+12471",
+    "name": "CUNEIFORM PUNCTUATION SIGN VERTICAL COLON",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑲",
+    "codepoint": "U+12472",
+    "name": "CUNEIFORM PUNCTUATION SIGN DIAGONAL COLON",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑳",
+    "codepoint": "U+12473",
+    "name": "CUNEIFORM PUNCTUATION SIGN DIAGONAL TRICOLON",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒑴",
+    "codepoint": "U+12474",
+    "name": "CUNEIFORM PUNCTUATION SIGN DIAGONAL QUADCOLON",
+    "block": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "char": "𒒀",
+    "codepoint": "U+12480",
+    "name": "CUNEIFORM SIGN AB TIMES NUN TENU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒁",
+    "codepoint": "U+12481",
+    "name": "CUNEIFORM SIGN AB TIMES SHU2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒂",
+    "codepoint": "U+12482",
+    "name": "CUNEIFORM SIGN AD TIMES ESH2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒃",
+    "codepoint": "U+12483",
+    "name": "CUNEIFORM SIGN BAD TIMES DISH TENU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒄",
+    "codepoint": "U+12484",
+    "name": "CUNEIFORM SIGN BAHAR2 TIMES AB2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒅",
+    "codepoint": "U+12485",
+    "name": "CUNEIFORM SIGN BAHAR2 TIMES NI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒆",
+    "codepoint": "U+12486",
+    "name": "CUNEIFORM SIGN BAHAR2 TIMES ZA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒇",
+    "codepoint": "U+12487",
+    "name": "CUNEIFORM SIGN BU OVER BU TIMES NA2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒈",
+    "codepoint": "U+12488",
+    "name": "CUNEIFORM SIGN DA TIMES TAK4",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒉",
+    "codepoint": "U+12489",
+    "name": "CUNEIFORM SIGN DAG TIMES KUR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒊",
+    "codepoint": "U+1248A",
+    "name": "CUNEIFORM SIGN DIM TIMES IGI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒋",
+    "codepoint": "U+1248B",
+    "name": "CUNEIFORM SIGN DIM TIMES U U U",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒌",
+    "codepoint": "U+1248C",
+    "name": "CUNEIFORM SIGN DIM2 TIMES UD",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒍",
+    "codepoint": "U+1248D",
+    "name": "CUNEIFORM SIGN DUG TIMES ANSHE",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒎",
+    "codepoint": "U+1248E",
+    "name": "CUNEIFORM SIGN DUG TIMES ASH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒏",
+    "codepoint": "U+1248F",
+    "name": "CUNEIFORM SIGN DUG TIMES ASH AT LEFT",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒐",
+    "codepoint": "U+12490",
+    "name": "CUNEIFORM SIGN DUG TIMES DIN",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒑",
+    "codepoint": "U+12491",
+    "name": "CUNEIFORM SIGN DUG TIMES DUN",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒒",
+    "codepoint": "U+12492",
+    "name": "CUNEIFORM SIGN DUG TIMES ERIN2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒓",
+    "codepoint": "U+12493",
+    "name": "CUNEIFORM SIGN DUG TIMES GA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒔",
+    "codepoint": "U+12494",
+    "name": "CUNEIFORM SIGN DUG TIMES GI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒕",
+    "codepoint": "U+12495",
+    "name": "CUNEIFORM SIGN DUG TIMES GIR2 GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒖",
+    "codepoint": "U+12496",
+    "name": "CUNEIFORM SIGN DUG TIMES GISH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒗",
+    "codepoint": "U+12497",
+    "name": "CUNEIFORM SIGN DUG TIMES HA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒘",
+    "codepoint": "U+12498",
+    "name": "CUNEIFORM SIGN DUG TIMES HI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒙",
+    "codepoint": "U+12499",
+    "name": "CUNEIFORM SIGN DUG TIMES IGI GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒚",
+    "codepoint": "U+1249A",
+    "name": "CUNEIFORM SIGN DUG TIMES KASKAL",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒛",
+    "codepoint": "U+1249B",
+    "name": "CUNEIFORM SIGN DUG TIMES KUR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒜",
+    "codepoint": "U+1249C",
+    "name": "CUNEIFORM SIGN DUG TIMES KUSHU2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒝",
+    "codepoint": "U+1249D",
+    "name": "CUNEIFORM SIGN DUG TIMES KUSHU2 PLUS KASKAL",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒞",
+    "codepoint": "U+1249E",
+    "name": "CUNEIFORM SIGN DUG TIMES LAK-020",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒟",
+    "codepoint": "U+1249F",
+    "name": "CUNEIFORM SIGN DUG TIMES LAM",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒠",
+    "codepoint": "U+124A0",
+    "name": "CUNEIFORM SIGN DUG TIMES LAM TIMES KUR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒡",
+    "codepoint": "U+124A1",
+    "name": "CUNEIFORM SIGN DUG TIMES LUH PLUS GISH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒢",
+    "codepoint": "U+124A2",
+    "name": "CUNEIFORM SIGN DUG TIMES MASH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒣",
+    "codepoint": "U+124A3",
+    "name": "CUNEIFORM SIGN DUG TIMES MES",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒤",
+    "codepoint": "U+124A4",
+    "name": "CUNEIFORM SIGN DUG TIMES MI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒥",
+    "codepoint": "U+124A5",
+    "name": "CUNEIFORM SIGN DUG TIMES NI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒦",
+    "codepoint": "U+124A6",
+    "name": "CUNEIFORM SIGN DUG TIMES PI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒧",
+    "codepoint": "U+124A7",
+    "name": "CUNEIFORM SIGN DUG TIMES SHE",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒨",
+    "codepoint": "U+124A8",
+    "name": "CUNEIFORM SIGN DUG TIMES SI GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒩",
+    "codepoint": "U+124A9",
+    "name": "CUNEIFORM SIGN E2 TIMES KUR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒪",
+    "codepoint": "U+124AA",
+    "name": "CUNEIFORM SIGN E2 TIMES PAP",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒫",
+    "codepoint": "U+124AB",
+    "name": "CUNEIFORM SIGN ERIN2 X",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒬",
+    "codepoint": "U+124AC",
+    "name": "CUNEIFORM SIGN ESH2 CROSSING ESH2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒭",
+    "codepoint": "U+124AD",
+    "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES ASH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒮",
+    "codepoint": "U+124AE",
+    "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES HI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒯",
+    "codepoint": "U+124AF",
+    "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES IGI GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒰",
+    "codepoint": "U+124B0",
+    "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES LA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒱",
+    "codepoint": "U+124B1",
+    "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES LAL",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒲",
+    "codepoint": "U+124B2",
+    "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES ME",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒳",
+    "codepoint": "U+124B3",
+    "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES MES",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒴",
+    "codepoint": "U+124B4",
+    "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES SU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒵",
+    "codepoint": "U+124B5",
+    "name": "CUNEIFORM SIGN EZEN TIMES SU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒶",
+    "codepoint": "U+124B6",
+    "name": "CUNEIFORM SIGN GA2 TIMES BAHAR2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒷",
+    "codepoint": "U+124B7",
+    "name": "CUNEIFORM SIGN GA2 TIMES DIM GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒸",
+    "codepoint": "U+124B8",
+    "name": "CUNEIFORM SIGN GA2 TIMES DUG TIMES IGI GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒹",
+    "codepoint": "U+124B9",
+    "name": "CUNEIFORM SIGN GA2 TIMES DUG TIMES KASKAL",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒺",
+    "codepoint": "U+124BA",
+    "name": "CUNEIFORM SIGN GA2 TIMES EREN",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒻",
+    "codepoint": "U+124BB",
+    "name": "CUNEIFORM SIGN GA2 TIMES GA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒼",
+    "codepoint": "U+124BC",
+    "name": "CUNEIFORM SIGN GA2 TIMES GAR PLUS DI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒽",
+    "codepoint": "U+124BD",
+    "name": "CUNEIFORM SIGN GA2 TIMES GAR PLUS NE",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒾",
+    "codepoint": "U+124BE",
+    "name": "CUNEIFORM SIGN GA2 TIMES HA PLUS A",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒒿",
+    "codepoint": "U+124BF",
+    "name": "CUNEIFORM SIGN GA2 TIMES KUSHU2 PLUS KASKAL",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓀",
+    "codepoint": "U+124C0",
+    "name": "CUNEIFORM SIGN GA2 TIMES LAM",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓁",
+    "codepoint": "U+124C1",
+    "name": "CUNEIFORM SIGN GA2 TIMES LAM TIMES KUR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓂",
+    "codepoint": "U+124C2",
+    "name": "CUNEIFORM SIGN GA2 TIMES LUH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓃",
+    "codepoint": "U+124C3",
+    "name": "CUNEIFORM SIGN GA2 TIMES MUSH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓄",
+    "codepoint": "U+124C4",
+    "name": "CUNEIFORM SIGN GA2 TIMES NE",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓅",
+    "codepoint": "U+124C5",
+    "name": "CUNEIFORM SIGN GA2 TIMES NE PLUS E2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓆",
+    "codepoint": "U+124C6",
+    "name": "CUNEIFORM SIGN GA2 TIMES NE PLUS GI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓇",
+    "codepoint": "U+124C7",
+    "name": "CUNEIFORM SIGN GA2 TIMES SHIM",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓈",
+    "codepoint": "U+124C8",
+    "name": "CUNEIFORM SIGN GA2 TIMES ZIZ2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓉",
+    "codepoint": "U+124C9",
+    "name": "CUNEIFORM SIGN GABA ROTATED NINETY DEGREES",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓊",
+    "codepoint": "U+124CA",
+    "name": "CUNEIFORM SIGN GESHTIN TIMES U",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓋",
+    "codepoint": "U+124CB",
+    "name": "CUNEIFORM SIGN GISH TIMES GISH CROSSING GISH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓌",
+    "codepoint": "U+124CC",
+    "name": "CUNEIFORM SIGN GU2 TIMES IGI GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓍",
+    "codepoint": "U+124CD",
+    "name": "CUNEIFORM SIGN GUD PLUS GISH TIMES TAK4",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓎",
+    "codepoint": "U+124CE",
+    "name": "CUNEIFORM SIGN HA TENU GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓏",
+    "codepoint": "U+124CF",
+    "name": "CUNEIFORM SIGN HI TIMES ASH OVER HI TIMES ASH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓐",
+    "codepoint": "U+124D0",
+    "name": "CUNEIFORM SIGN KA TIMES BU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓑",
+    "codepoint": "U+124D1",
+    "name": "CUNEIFORM SIGN KA TIMES KA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓒",
+    "codepoint": "U+124D2",
+    "name": "CUNEIFORM SIGN KA TIMES U U U",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓓",
+    "codepoint": "U+124D3",
+    "name": "CUNEIFORM SIGN KA TIMES UR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓔",
+    "codepoint": "U+124D4",
+    "name": "CUNEIFORM SIGN LAGAB TIMES ZU OVER ZU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓕",
+    "codepoint": "U+124D5",
+    "name": "CUNEIFORM SIGN LAK-003",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓖",
+    "codepoint": "U+124D6",
+    "name": "CUNEIFORM SIGN LAK-021",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓗",
+    "codepoint": "U+124D7",
+    "name": "CUNEIFORM SIGN LAK-025",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓘",
+    "codepoint": "U+124D8",
+    "name": "CUNEIFORM SIGN LAK-030",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓙",
+    "codepoint": "U+124D9",
+    "name": "CUNEIFORM SIGN LAK-050",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓚",
+    "codepoint": "U+124DA",
+    "name": "CUNEIFORM SIGN LAK-051",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓛",
+    "codepoint": "U+124DB",
+    "name": "CUNEIFORM SIGN LAK-062",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓜",
+    "codepoint": "U+124DC",
+    "name": "CUNEIFORM SIGN LAK-079 OVER LAK-079 GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓝",
+    "codepoint": "U+124DD",
+    "name": "CUNEIFORM SIGN LAK-080",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓞",
+    "codepoint": "U+124DE",
+    "name": "CUNEIFORM SIGN LAK-081 OVER LAK-081",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓟",
+    "codepoint": "U+124DF",
+    "name": "CUNEIFORM SIGN LAK-092",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓠",
+    "codepoint": "U+124E0",
+    "name": "CUNEIFORM SIGN LAK-130",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓡",
+    "codepoint": "U+124E1",
+    "name": "CUNEIFORM SIGN LAK-142",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓢",
+    "codepoint": "U+124E2",
+    "name": "CUNEIFORM SIGN LAK-210",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓣",
+    "codepoint": "U+124E3",
+    "name": "CUNEIFORM SIGN LAK-219",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓤",
+    "codepoint": "U+124E4",
+    "name": "CUNEIFORM SIGN LAK-220",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓥",
+    "codepoint": "U+124E5",
+    "name": "CUNEIFORM SIGN LAK-225",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓦",
+    "codepoint": "U+124E6",
+    "name": "CUNEIFORM SIGN LAK-228",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓧",
+    "codepoint": "U+124E7",
+    "name": "CUNEIFORM SIGN LAK-238",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓨",
+    "codepoint": "U+124E8",
+    "name": "CUNEIFORM SIGN LAK-265",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓩",
+    "codepoint": "U+124E9",
+    "name": "CUNEIFORM SIGN LAK-266",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓪",
+    "codepoint": "U+124EA",
+    "name": "CUNEIFORM SIGN LAK-343",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓫",
+    "codepoint": "U+124EB",
+    "name": "CUNEIFORM SIGN LAK-347",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓬",
+    "codepoint": "U+124EC",
+    "name": "CUNEIFORM SIGN LAK-348",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓭",
+    "codepoint": "U+124ED",
+    "name": "CUNEIFORM SIGN LAK-383",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓮",
+    "codepoint": "U+124EE",
+    "name": "CUNEIFORM SIGN LAK-384",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓯",
+    "codepoint": "U+124EF",
+    "name": "CUNEIFORM SIGN LAK-390",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓰",
+    "codepoint": "U+124F0",
+    "name": "CUNEIFORM SIGN LAK-441",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓱",
+    "codepoint": "U+124F1",
+    "name": "CUNEIFORM SIGN LAK-449",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓲",
+    "codepoint": "U+124F2",
+    "name": "CUNEIFORM SIGN LAK-449 TIMES GU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓳",
+    "codepoint": "U+124F3",
+    "name": "CUNEIFORM SIGN LAK-449 TIMES IGI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓴",
+    "codepoint": "U+124F4",
+    "name": "CUNEIFORM SIGN LAK-449 TIMES PAP PLUS LU3",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓵",
+    "codepoint": "U+124F5",
+    "name": "CUNEIFORM SIGN LAK-449 TIMES PAP PLUS PAP PLUS LU3",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓶",
+    "codepoint": "U+124F6",
+    "name": "CUNEIFORM SIGN LAK-449 TIMES U2 PLUS BA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓷",
+    "codepoint": "U+124F7",
+    "name": "CUNEIFORM SIGN LAK-450",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓸",
+    "codepoint": "U+124F8",
+    "name": "CUNEIFORM SIGN LAK-457",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓹",
+    "codepoint": "U+124F9",
+    "name": "CUNEIFORM SIGN LAK-470",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓺",
+    "codepoint": "U+124FA",
+    "name": "CUNEIFORM SIGN LAK-483",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓻",
+    "codepoint": "U+124FB",
+    "name": "CUNEIFORM SIGN LAK-490",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓼",
+    "codepoint": "U+124FC",
+    "name": "CUNEIFORM SIGN LAK-492",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓽",
+    "codepoint": "U+124FD",
+    "name": "CUNEIFORM SIGN LAK-493",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓾",
+    "codepoint": "U+124FE",
+    "name": "CUNEIFORM SIGN LAK-495",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒓿",
+    "codepoint": "U+124FF",
+    "name": "CUNEIFORM SIGN LAK-550",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔀",
+    "codepoint": "U+12500",
+    "name": "CUNEIFORM SIGN LAK-608",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔁",
+    "codepoint": "U+12501",
+    "name": "CUNEIFORM SIGN LAK-617",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔂",
+    "codepoint": "U+12502",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES ASH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔃",
+    "codepoint": "U+12503",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES BAD",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔄",
+    "codepoint": "U+12504",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES DUN3 GUNU GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔅",
+    "codepoint": "U+12505",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES KU3",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔆",
+    "codepoint": "U+12506",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES LA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔇",
+    "codepoint": "U+12507",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES TAR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔈",
+    "codepoint": "U+12508",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES TE",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔉",
+    "codepoint": "U+12509",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES U2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔊",
+    "codepoint": "U+1250A",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES UD",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔋",
+    "codepoint": "U+1250B",
+    "name": "CUNEIFORM SIGN LAK-617 TIMES URUDA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔌",
+    "codepoint": "U+1250C",
+    "name": "CUNEIFORM SIGN LAK-636",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔍",
+    "codepoint": "U+1250D",
+    "name": "CUNEIFORM SIGN LAK-648",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔎",
+    "codepoint": "U+1250E",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES DUB",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔏",
+    "codepoint": "U+1250F",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES GA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔐",
+    "codepoint": "U+12510",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES IGI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔑",
+    "codepoint": "U+12511",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES IGI GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔒",
+    "codepoint": "U+12512",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES NI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔓",
+    "codepoint": "U+12513",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES PAP PLUS PAP PLUS LU3",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔔",
+    "codepoint": "U+12514",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES SHESH PLUS KI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔕",
+    "codepoint": "U+12515",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES UD",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔖",
+    "codepoint": "U+12516",
+    "name": "CUNEIFORM SIGN LAK-648 TIMES URUDA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔗",
+    "codepoint": "U+12517",
+    "name": "CUNEIFORM SIGN LAK-724",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔘",
+    "codepoint": "U+12518",
+    "name": "CUNEIFORM SIGN LAK-749",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔙",
+    "codepoint": "U+12519",
+    "name": "CUNEIFORM SIGN LU2 GUNU TIMES ASH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔚",
+    "codepoint": "U+1251A",
+    "name": "CUNEIFORM SIGN LU2 TIMES DISH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔛",
+    "codepoint": "U+1251B",
+    "name": "CUNEIFORM SIGN LU2 TIMES HAL",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔜",
+    "codepoint": "U+1251C",
+    "name": "CUNEIFORM SIGN LU2 TIMES PAP",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔝",
+    "codepoint": "U+1251D",
+    "name": "CUNEIFORM SIGN LU2 TIMES PAP PLUS PAP PLUS LU3",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔞",
+    "codepoint": "U+1251E",
+    "name": "CUNEIFORM SIGN LU2 TIMES TAK4",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔟",
+    "codepoint": "U+1251F",
+    "name": "CUNEIFORM SIGN MI PLUS ZA7",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔠",
+    "codepoint": "U+12520",
+    "name": "CUNEIFORM SIGN MUSH OVER MUSH TIMES GA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔡",
+    "codepoint": "U+12521",
+    "name": "CUNEIFORM SIGN MUSH OVER MUSH TIMES KAK",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔢",
+    "codepoint": "U+12522",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES DIM GUNU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔣",
+    "codepoint": "U+12523",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES GISH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔤",
+    "codepoint": "U+12524",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES GUL",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔥",
+    "codepoint": "U+12525",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES HI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔦",
+    "codepoint": "U+12526",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES KESH2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔧",
+    "codepoint": "U+12527",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES LAK-050",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔨",
+    "codepoint": "U+12528",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES MASH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔩",
+    "codepoint": "U+12529",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES PAP PLUS PAP",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔪",
+    "codepoint": "U+1252A",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES U",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔫",
+    "codepoint": "U+1252B",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES U PLUS U",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔬",
+    "codepoint": "U+1252C",
+    "name": "CUNEIFORM SIGN NINDA2 TIMES URUDA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔭",
+    "codepoint": "U+1252D",
+    "name": "CUNEIFORM SIGN SAG GUNU TIMES HA",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔮",
+    "codepoint": "U+1252E",
+    "name": "CUNEIFORM SIGN SAG TIMES EN",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔯",
+    "codepoint": "U+1252F",
+    "name": "CUNEIFORM SIGN SAG TIMES SHE AT LEFT",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔰",
+    "codepoint": "U+12530",
+    "name": "CUNEIFORM SIGN SAG TIMES TAK4",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔱",
+    "codepoint": "U+12531",
+    "name": "CUNEIFORM SIGN SHA6 TENU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔲",
+    "codepoint": "U+12532",
+    "name": "CUNEIFORM SIGN SHE OVER SHE",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔳",
+    "codepoint": "U+12533",
+    "name": "CUNEIFORM SIGN SHE PLUS HUB2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔴",
+    "codepoint": "U+12534",
+    "name": "CUNEIFORM SIGN SHE PLUS NAM2",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔵",
+    "codepoint": "U+12535",
+    "name": "CUNEIFORM SIGN SHE PLUS SAR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔶",
+    "codepoint": "U+12536",
+    "name": "CUNEIFORM SIGN SHU2 PLUS DUG TIMES NI",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔷",
+    "codepoint": "U+12537",
+    "name": "CUNEIFORM SIGN SHU2 PLUS E2 TIMES AN",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔸",
+    "codepoint": "U+12538",
+    "name": "CUNEIFORM SIGN SI TIMES TAK4",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔹",
+    "codepoint": "U+12539",
+    "name": "CUNEIFORM SIGN TAK4 PLUS SAG",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔺",
+    "codepoint": "U+1253A",
+    "name": "CUNEIFORM SIGN TUM TIMES GAN2 TENU",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔻",
+    "codepoint": "U+1253B",
+    "name": "CUNEIFORM SIGN TUM TIMES THREE DISH",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔼",
+    "codepoint": "U+1253C",
+    "name": "CUNEIFORM SIGN UR2 INVERTED",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔽",
+    "codepoint": "U+1253D",
+    "name": "CUNEIFORM SIGN UR2 TIMES UD",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔾",
+    "codepoint": "U+1253E",
+    "name": "CUNEIFORM SIGN URU TIMES DARA3",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒔿",
+    "codepoint": "U+1253F",
+    "name": "CUNEIFORM SIGN URU TIMES LAK-668",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒕀",
+    "codepoint": "U+12540",
+    "name": "CUNEIFORM SIGN URU TIMES LU3",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒕁",
+    "codepoint": "U+12541",
+    "name": "CUNEIFORM SIGN ZA7",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒕂",
+    "codepoint": "U+12542",
+    "name": "CUNEIFORM SIGN ZU OVER ZU PLUS SAR",
+    "block": "Early Dynastic Cuneiform"
+  },
+  {
+    "char": "𒕃",
+    "codepoint": "U+12543",
+    "name": "CUNEIFORM SIGN ZU5 TIMES THREE DISH TENU",
+    "block": "Early Dynastic Cuneiform"
+  }
+]
